@@ -32,7 +32,7 @@ find . -name "*.webp" -not -path "./FinalLogo.webp" -not -path "./$LOG_FILE" -pr
     x=$((width*10/100))
     y=$((height*20/100))
     
-    magick "$file" \( FinalLogo.webp -alpha set -channel A -evaluate Multiply 0.20 +channel \) \
+    magick "$file" \( FinalLogo.webp -alpha set -channel A -evaluate Multiply 0.40 +channel \) \
     -gravity southwest -geometry "+${x}+${y}" -compose over -composite "${file%.*}_wm.webp"
 
 done

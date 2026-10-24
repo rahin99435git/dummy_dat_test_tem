@@ -1,0 +1,1432 @@
+~/Downloads/0_WATERMARKING/TEST  % python3 cleanup_old_watermarked_files.py 
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/FinalLogo.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/Step2_watermark.sh
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rirangams_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rirangams_/srir_v1_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rirangams_/srir_v2_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ublidharwadh_/chandramouleshwara_v56.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ublidharwadh_/BanashankariTemple_v31.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hennaic_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hennaic_/ShriAshtalaksh_v3_xxx.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hennaic_/Parthasarath_v3_xxx.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hennaic_/Marundeeswarar_v3_xxx.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hennaic_/ArulmiguThi_v3_xxx.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hennaic_/VadapalaniMu_v3_xxx.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hennaic_/KapaleeshwarMy_v3_xxx.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andim_/BhimakaliTemplev63_v34.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andim_/TrilokiNathTemplev_v54.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andim_/BhootNathTemplev26_v64.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andim_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andim_/RaiMadhavTemplev63_v60.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andim_/ArdhanareshwarTemp_v62.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andim_/NeelkanthMahadevTe_v91.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andim_/SidhGaneshaTemplev_v21.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andim_/PanchvaktraMahadev_v78.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andim_/TarnaMataTemplev60_v23.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andim_/RewalsarLakeTemple_v67.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rindavanv_/bankebiha_v1_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rindavanv_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rindavanv_/ISKKrishBalara_v1_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rindavanv_/Preman_v1_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/athuram_/VishramGhatv42_v6.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/athuram_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/athuram_/DwarkadhishTemplev_v55.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/athuram_/shrikrishnajanamst_v31.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hatushyamjik_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hatushyamjik_/RaniSatiTemple_v38.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hatushyamjik_/KhatuShyamjiTemple_v4.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hatushyamjik_/JeenMataTemple_v76.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/isakhapatnamv_/kanakaMah_v0.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/isakhapatnamv_/sriSampVinaya_v0.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/isakhapatnamv_/sriVenkaSwamykon_v0.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/isakhapatnamv_/ISKtemple_v0.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/isakhapatnamv_/Simhach_v0.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hambac_/ChaurasiTemplesCompl_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hambac_/ChamundaDeviTem_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hambac_/LakshanaDeviTem_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hambac_/RadhaKrishn_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hambac_/HariRaiTemp_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hambac_/ShivaTempleChandragupt_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hambac_/GauriShankarTem_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hambac_/SuiMata_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hambac_/LaxmiNarayan_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ysuruM_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ysuruM_/ISKCONTempleMysuru_v84.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ysuruM_/SriChamundeshwariT_v64.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ysuruM_/NandiStatueShrine_v50.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ashidingWestSikkimt_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ashidingWestSikkimt_/TashidingMonast_v123.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/himlas_/JakhuTempleShimla_v67.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/himlas_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/himlas_/KaliBariTemple_v94.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/himlas_/JakhDevtaTemple_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/himlas_/MahamayaTempleKalk_v62.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/himlas_/KamakshiDeviTemple_v29.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/himlas_/ShooliniMataTemple_v76.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/himlas_/HatkotiTempleRohru_v34.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/himlas_/TaraDeviTemple_v89.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/himlas_/HatuMataTemple_v64.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/himlas_/SankatMochanTemple_v38.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rayagrajp_/AlopiDeviMandir_v38.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rayagrajp_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rayagrajp_/ShivkutiMahadevTem_v50.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rayagrajp_/ShriBadeHanuman_v49.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rayagrajp_/TriveniSangamPraya_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rayagrajp_/ShriNagVasuki_v79.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rayagrajp_/KalyaniDeviTemple_v16.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rayagrajp_/BharadwajAshramPra_v48.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rayagrajp_/MankameshwarTemple_v82.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rayagrajp_/VindhyavasiniDeviT_v57.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rayagrajp_/LalitaDeviTemple_v41.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/gartalaTripuraa_/LaxmiNarayanBari_b2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/gartalaTripuraa_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/gartalaTripuraa_/Chaturdasha_b2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/gartalaTripuraa_/ShriJagannathTem_b2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aridwarh_/ChandiDeviTemple_v35.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aridwarh_/DakshaMahadevTempl_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aridwarh_/HarkiPauri_v42.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aridwarh_/mansadevitemple_v13.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/abarimalas_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/abarimalas_/SabarimalaSreeDhar_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olanS_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olanS_/ShriShooliniMata_v62.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olanS_/MohanShaktiNationa_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olanS_/JatoliShivTemple_v78.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olanS_/KarolDeviTemple_v95.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/engalurub_/GaviGangadhareshwa_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/engalurub_/PrasannAnjaneyaswam_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/engalurub_/BanashankariAmm_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/engalurub_/JagannathTempHSR_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/engalurub_/DomlurSriChokkanathaswam_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/engalurub_/DoddaBasavana_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/engalurub_/KoteSriPrasannaVenka_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/engalurub_/DoddaGanapathi_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/engalurub_/HalasuruSomeshwarSwam_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/engalurub_/ISKRadhaKri_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yderabadh_/BalkampetEllammaTe_v63.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yderabadh_/ChilkurBalajiTempl_v65.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yderabadh_/PeddammaTemple_v94.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yderabadh_/karmanghathanumant_v41.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yderabadh_/SriVenkateswaraTem_v36.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yderabadh_/JagannathTemple_v86.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yderabadh_/ISKCONHyderabad_v3.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yderabadh_/sanghitemple_v56.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yderabadh_/BirlaMandirin_v97.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yderabadh_/UjjainiMahakaliTem_v28.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aranasiv_/varan_v1_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aranasiv_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aranasiv_/varan_v11_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aranasiv_/varan_v10_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aranasiv_/varan_v7_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aranasiv_/varan_v6_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aranasiv_/varan_v9_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aranasiv_/varan_v8_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aranasiv_/varan_v3_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aranasiv_/varan_v2_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aranasiv_/varan_v4_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aranasiv_/varan_v5_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angaloreM_/ShreeVishnumurthyT_v60.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angaloreM_/KudroliGokarnanath_v65.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angaloreM_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angaloreM_/ShriMangaladeviTem_v32.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angaloreM_/SriVenkataramanaTe_v30.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angaloreM_/ShreeMariyammaTemp_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angaloreM_/SriKalikambaVinaya_v96.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angaloreM_/ShreeSharavuMahaga_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angaloreM_/KadriSriManjunatha_v29.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angaloreM_/KateelDurgaParames_v3.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angaloreM_/ShreeNandaneshwara_v73.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ahesanam_/shribahucharajimat_v5.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ahesanam_/ShriAjitnathJain_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ahesanam_/ShriKashiVishwanat_v75.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ahesanam_/BAPSShriSwaminaray_v94.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ahesanam_/HatkeshwarTempleVa_v99.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ahesanam_/ShriUmiyaMataji_v83.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ahesanam_/iskconmehsanamodhe_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ahesanam_/ModheraSunTemple_v88.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ikanerb_/KodamdesarBhaira_v67.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ikanerb_/VaishnoDham_v67.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ikanerb_/KarniMata_v67.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ikanerb_/SethBhandasarJain_v67.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ikanerb_/ShivBari_v67.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ikanerb_/ShriLaxminath_v67.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ampih_/Vijayavittala_v2_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ampih_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ampih_/Virupaks_v2_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ampih_/Hazaraama_v2_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ucknowl_/ISKCONTemple_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ucknowl_/AliganjHanuman_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ucknowl_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ucknowl_/ChandrikaDeviTempl_v53.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ucknowl_/HanumanSetuMandir_v86.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ucknowl_/MankameshwarMahade_v12.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ndorei_/GopalMandir_v79.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ndorei_/BijasanMataTemple_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ndorei_/BadaGanpatiTemple_v43.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ndorei_/DevguradiaShivaTem_v55.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ndorei_/KhajranaGaneshTemp_v11.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ndorei_/ShreeAnnapurnaTemp_v4.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ndorei_/PitraParvat_v25.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ndorei_/KanchMandir_v29.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ulluk_/ShringaRishiTemple_v91.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ulluk_/ManuTemple_v93.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ulluk_/SiyaliMahadevTempl_v85.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ulluk_/BishweshwarMahadev_v15.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ulluk_/VashishtTemple_v50.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ulluk_/BijliMahadevTemple_v81.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ulluk_/RaghunathTemple_v63.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ulluk_/HidimbaDeviTemple_v75.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ulluk_/ShivTempleManikara_v38.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ulluk_/RamMandirManikaran_v74.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eepakshil_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eepakshil_/MonoNandi_v4_ghi.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eepakshil_/VeerabhadraTemp_v4_ghi.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irumalatirupatit_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irumalatirupatit_/PadmavathiAmmavari_v11.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irumalatirupatit_/GovindarajaswamiTe_v78.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irumalatirupatit_/VenkateswaraTemple_v25.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irumalatirupatit_/KalyanaVenkateswar_v85.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irumalatirupatit_/KapileswaraSwamyTe_v43.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irumalatirupatit_/KodandaramaSwamyTe_v55.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/onarkk_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/onarkk_/ChandraBh_v2_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/onarkk_/sun_v2_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/onarkk_/Ramac_v2_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/orakhpurg_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/orakhpurg_/VishnMandi_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/orakhpurg_/gorakhnathtem_v98.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/adagiriguttay_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/adagiriguttay_/yada_v1_efg.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elhid_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elhid_/SwaminarayanAksha_v2_qqq.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elhid_/KalkajiMand_v2_qqq.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elhid_/GauriShankarChandni_v2_qqq.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elhid_/PrachinHanuman_v2_qqq.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elhid_/AadyaKatyayaniShakti_v2_qqq.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elhid_/ChhatarpuKatyay_v2_qqq.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elhid_/Yogmaya_v2_qqq.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hiruvananthapuramt_/thiru_v1_mno.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hiruvananthapuramt_/thiru_v3_mno.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hiruvananthapuramt_/thiru_v2_mno.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hiruvananthapuramt_/thiru_v4_mno.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hiruvananthapuramt_/thiru_v5_mno.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruchirappalliT_/SamayapuramMariamm_v90.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruchirappalliT_/RockFortTemple_v27.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruchirappalliT_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruchirappalliT_/SriRanganathaswamy_v27.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruchirappalliT_/UcchiPillayarTempl_v98.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbakonamk_/KasiViswanatharTem_v24.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbakonamk_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbakonamk_/NageswaranTemple_v12.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbakonamk_/UppiliappanTemple_v39.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbakonamk_/SarangapaniTemple_v75.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbakonamk_/ChakrapaniTemple_v68.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbakonamk_/SwamimalaiMuruganT_v69.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbakonamk_/AiravatesvaraTempl_v97.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbakonamk_/RamaswamyTemple_v74.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbakonamk_/AdiKumbheshwararTe_v34.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hansij_/ShriRamRaja_v32.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hansij_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hansij_/sakhikehanuman_v66.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hansij_/panchkuianmandirsh_v97.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ajkotR_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ajkotR_/PanchnathMahadevTe_v83.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ajkotR_/BAPSShriSwaminaray_v68.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ajkotR_/RudranathTemplePan_v70.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yodhyaa_/kanak_v5_wwx.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yodhyaa_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yodhyaa_/hanumangar_v5_wwx.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/yodhyaa_/ramjanmabh_v5_wwx.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hubaneswarb_/AnantaVasu_v3_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hubaneswarb_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hubaneswarb_/Brahmeshwar_v3_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hubaneswarb_/ChausatYogi_v3_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hubaneswarb_/KedarGaur_v3_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hubaneswarb_/Parasurameswar_v3_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hubaneswarb_/RamMand_v3_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hubaneswarb_/BaitalaDaula_v3_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hubaneswarb_/LingTem_v3_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hubaneswarb_/RajRan_v3_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hubaneswarb_/MuktesTe_v3_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rodee_/BhavanSan_v1_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rodee_/thinda_v1_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rodee_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rodee_/ArulmiguChenni_v1_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rodee_/KonguTirup_v1_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rodee_/ArulmigPeriy_v1_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/rodee_/ArulmiguBan_v1_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/risailams_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/risailams_/SriMallikarjunaSwa_v84.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/adodarav_/suryaNaray_v12.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/adodarav_/EME_n12.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/adodarav_/ISKC_v12.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andakinivalleyM_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andakinivalleyM_/VishwanathTemplev7_v94.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hrissurt_/ParamekkavuBhagava_v5.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hrissurt_/GuruvayurtempleKer_v19.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hrissurt_/TriprayarSreeRamas_v21.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hrissurt_/SreeVadakkumnathan_v50.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hrissurt_/ThiruvambadySreeKr_v70.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/MaaRamachandi_v8_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/VarahanathTem_v556_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/KapilashChandra_v7_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/GupteswarTemp_v56_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/JagannathTempleBa_v1_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/MaaSaralaJagatSingh_v882_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/MaaAmbikaTemBar_v3_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/BirajaTemJajpur_v128_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/TaraTarini_v23_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/KhirachoraGopi_v7_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/BaladevjewTemp_v1_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/Manikeshwari_v453_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/MaaTarini_v348_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/disha0_/panchalingeshwar_v4_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/daipuru_/Eklingaji_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/daipuru_/neemachmata_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/daipuru_/Jagdish_Tem_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ochik_/ErnakulathappanTem_v88.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ochik_/ErnakulathappanTem_v5.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ochik_/KadungalloorSreeNa_v99.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ochik_/SreePoornathrayees_v69.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ochik_/ThiruvanchikulamMa_v75.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/adrinathb_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/adrinathb_/badrinat_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/warkad_/NageshwarJyotirlin_v30.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/warkad_/RukminiDeviTemple_v52.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/warkad_/DwarkadhishTemple0_v51.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elgaumb_/KamalBasadiBelaga_v99.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elgaumb_/kapileshwarBelg_v99.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/onil_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/onil_/PrachinShiv_v5_ggg.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/onil_/BanthalaShi_v5_ggg.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/onil_/ShriMallikarMa_v5_ggg.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olapurS_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olapurS_/ShriVitthalRukmini_v27.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olapurS_/SiddheshwarTemple_v68.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ivasagarAssams_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ivasagarAssams_/Siva_3_Dol_v7.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hopalb_/Bhojeshwar_v78.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hopalb_/BirlaMan_v78.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anchipuramk_/ArulmiguVaradaraja_v23.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anchipuramk_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anchipuramk_/SriKanchiKamakshi_v11.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anchipuramk_/ArulmiguEkambaresw_v48.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irmaurS_/ShivaTemplePaonta_v31.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irmaurS_/HanumanTemplePaont_v17.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irmaurS_/ParshuramTempleRen_v47.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irmaurS_/YamunaDeviTemple_v69.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irmaurS_/SuryaTempleRenuka_v38.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irmaurS_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irmaurS_/DurgaTempleNahan_v31.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irmaurS_/RenukaJiTemple_v91.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irmaurS_/ShivaTempleNahan_v49.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irmaurS_/HanumanTemple_v3.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irmaurS_/LocalDeviTemple_v95.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/omnathS_/ShriSomnathJyotirl_v28.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/omnathS_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hmedabada_/ahmed_v1_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hmedabada_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hmedabada_/ahmed_v7_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hmedabada_/ahmed_v6_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hmedabada_/ahmed_v3_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hmedabada_/ahmed_v2_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hmedabada_/ahmed_v9_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hmedabada_/ahmed_v8_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hmedabada_/ahmed_v4_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hmedabada_/ahmed_v5_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/areillyb_/BabaAlakhna_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/areillyb_/TrivatiNathMan_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/NabagrahaTemples_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/KumbhMelaCircuit_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/FourAmnayaMathas_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/CharDham_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/PanchBhoothStalam_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/AstaVinayak_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/TwelveJyotirlingas_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/MuruganAarupadaiVeedu_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/DattaPeethas_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/KanwarYatraPathway_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/AayapaSwanyShrines_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/SaptaPuri_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/PanchKedar_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/PancharamaKshetras_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/NauDeviCircuit_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/NorthCharDham_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/SabarimalaCircuit_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/CiRcUiT/ShaktiPeethhas_wm_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ahabalipuramm_/VarahaCaveTemple_v6.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ahabalipuramm_/PanchaRathas_v63.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ahabalipuramm_/ArjunaPenance_v91.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ahabalipuramm_/shoretempleKadalma_v6.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/arangalw_/waran_v1_efg.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/arangalw_/waran_v2_efg.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/arangalw_/waran_v3_efg.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/haziabadg_/DasnaDev_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/haziabadg_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/haziabadg_/ShriDudheNat_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/waliorg_/TelikaMan_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/waliorg_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/waliorg_/SasbahTem_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/waliorg_/Chaturbhujv_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/waliorg_/KoteshwarTem_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/waliorg_/SunTemp_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/waliorg_/JaurasiHanu_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/waliorg_/ShriAchleshwarMaha_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/waliorg_/KhedapatiHan_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ohimaNagalandk_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ohimaNagalandk_/GorkhaSingmand_v4.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ohimaNagalandk_/durgabariman_v4.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ellingWestSikkimp_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ellingWestSikkimp_/PemayangtseMonast_v6.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irozabadf_/ShriMaha_v3_efg.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irozabadf_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/irozabadf_/ShriVaishn_v3_efg.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/izamabadn_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/izamabadn_/Neelakanteshwar_v3_ccc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aipurj_/ShriGovindDev_v5.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aipurj_/BirlaMandir_v70.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aipurj_/MotiDungriGanesh_v56.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uwahatig_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uwahatig_/HayagrivaMadhava_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uwahatig_/Gorakhnat_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uwahatig_/PurvaTirupati_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uwahatig_/KamakTem_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uwahatig_/Basistha_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uwahatig_/Umananda _v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uwahatig_/NavagrahaTe_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ehradund_/TapkeshwarMahadevT_v54.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ehradund_/ShriPrakasheshwarM_v25.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ehradund_/MindrollingMonaste_v20.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/urugramg_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/urugramg_/DamdamShiv_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/urugramg_/ShriMatSheetDev_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/urugramg_/Karthikeya_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/urugramg_/ShivKasan_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/urugramg_/ShreeShivSha_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/urugramg_/ISKCGurugram_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nau_/jmasnidevitemple_v14.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nau_/peernigaha_v41.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nau_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nau_/kaleshwarmahadev_v41.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nau_/KotlaKalanShiv_v38.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nau_/ShivBariTemple_v50.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nau_/narayanmahadev_v69.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nau_/muchkundmahadev_v89.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nau_/seetaldev_v4.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nau_/MataChintpurniDevi_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aipurR_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aipurR_/DudhadhariTempleMa_v46.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aipurR_/MaaBanjariMandir_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angotrig_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angotrig_/gangotri_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uneP_/ISKCONNVCCSri_v31.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uneP_/NeelkanteshwarTemp_v28.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uneP_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uneP_/KatrajJainTemple_v67.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uneP_/SarasbaugGanpatiTe_v83.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uneP_/ChaturshringiTempl_v56.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uneP_/OmkareshwarTempleS_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uneP_/PataleshwarCaveTem_v47.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uneP_/ShreemantDagdushet_v85.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uneP_/KasbaGanpatiTemple_v27.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uneP_/ParvatiHillTemple_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/egshipWestSikkiml_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/egshipWestSikkiml_/kirateshwar_mahaleg_v5.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/oimbatorec_/PerurPatteeswararP_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/oimbatorec_/ArulmiguEachanariV_v55.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/oimbatorec_/MarudhamalaiHillTe_v25.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/oidan_/noid_v3_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/oidan_/noid_v2_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/oidan_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/oidan_/noid_v1_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hensangNorthSikkimp_/PhensongMon_v9.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hensangNorthSikkimp_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/graa_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/graa_/balkeshwar_v1_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/graa_/mankameshwar_v1_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ishikeshR_/ShriBharatMandir_v18.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ishikeshR_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ishikeshR_/NeelkanthMahadevTe_v90.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ishikeshR_/TriveniGhat_v40.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mritsara_/amrit_v2_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mritsara_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mritsara_/amrit_v1_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anchiR_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anchiR_/DeoriMandir_v86.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anchiR_/JagannathTemple_v74.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hanjavurt_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hanjavurt_/ThanjaiMamaniKoil_v47.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hanjavurt_/AiravatesvaraTempl_v85.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hanjavurt_/BrihadisvaraTemple_v52.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hanjavurt_/BrihadeeswararTemp_v38.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uttackc_/DhabaleswarTemp_v1_qqq.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uttackc_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uttackc_/Cuttchan_v1_qqq.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uttackc_/ParamahansaNath_v1_qqq.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/urangabada_/GrishneshwrJyoti_v7654.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/urangabada_/KailasaTm_v7654.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aishnodeviv_/vaishnodevi_sh_v6.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aishnodeviv_/Bhairavna_v6.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ellorev_/LakshmNarayan_gold_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ameshwaramr_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ameshwaramr_/ArulmiguRamanathas_v18.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/abalpurj_/TripuraSundariTemp_v60.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/abalpurj_/KachnarCityShiva_v76.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/marnatha_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/marnatha_/amar_v1_mno.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anjimP_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anjimP_/ShreeMahalaxmiTemp_v55.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anjimP_/MarutiTemple_v19.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/jjainu_/chintamani-ganesh_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/jjainu_/Harsiddhi_Tem_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/jjainu_/Mahakaleshwarjyo_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/jjainu_/kalvairabh_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/jjainu_/mangalnath_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uljapurt_/tuli_v1_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uljapurt_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uljapurt_/tuli_v6_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uljapurt_/tuli_v3_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uljapurt_/tuli_v2_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uljapurt_/tuli_v4_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uljapurt_/tuli_v5_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/oronS_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/oronS_/ShriBatukBhairav_v19.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amirpurh_/RishiMarkankyaTemp_v87.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amirpurh_/MahadevTemple_v18.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amirpurh_/DeviTemple_v29.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amirpurh_/VyasheshwarTemple_v65.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amirpurh_/SidhBabaBalak_v9.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amirpurh_/narvadeshwartemple_v35.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amirpurh_/BilkleshwarMahadev_v57.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amirpurh_/MurliManoharTemple_v34.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amirpurh_/ShaniDevTemple_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amirpurh_/GauriShankarTemple_v63.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/atnap_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/atnap_/MahavirMandirPatna_v64.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/atnap_/ChotiPatan_v28_wm.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/atnap_/ShriBadiPatan_v28.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/atnap_/ISKCONTemplePatna_v78.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olhapurk_/JyotibaTe_v98.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olhapurk_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olhapurk_/MahalaxmiTempleKol_v70.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olhapurk_/KopeshwarTempleKhi_v56.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olhapurk_/NarsinhwadiDattaMa_v51.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olhapurk_/BinkhambiGaneshTem_v14.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hitrakootc_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hitrakootc_/Ramghat_v4_hhh.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hitrakootc_/Kamadgiri_v4_hhh.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hitrakootc_/GuptGodavari_v4_hhh.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hitrakootc_/SatiAnusuya_v4_hhh.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hitrakootc_/HanumanDhara_v4_hhh.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hitrakootc_/BharatMilap_v4_hhh.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/udhianal_/ISKCONTemple_v98.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/udhianal_/ShriKrishnaMandir_v60.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ringeris_/StambhaGanapatiTem_v79.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ringeris_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ringeris_/SharadambaTemple_v70.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ringeris_/ToranaGanapatiTemp_v64.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ringeris_/KalabhairavaTemple_v74.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ringeris_/VidyashankaraTempl_v14.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ringeris_/KereAnjaneyaTemple_v99.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ringeris_/Malahanikareshwara_v84.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ringeris_/AdiShankaraTemple_v66.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mravatia_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mravatia_/amara_v1_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mravatia_/amara_v2_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/alems_/ISKCONSalem_v70.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/alems_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/alems_/ArulmiguSugavanesw_v47.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/alems_/KottaiMariammanTem_v48.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/odheram_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/odheram_/SunTemplev56_v80.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ligarha_/alig_v2_mno.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ligarha_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ligarha_/alig_v1_mno.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anyakumarik_/KumariAmman_v55 .webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anyakumarik_/ThanumalayanSuchindram_v55.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hillongs_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hillongs_/SriSriMahadev_v86.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hillongs_/MatriMandir_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruvannamalaiT_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruvannamalaiT_/ThiruNerAnnamalai_v84.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruvannamalaiT_/RettaiPillayarKoil_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruvannamalaiT_/VirupakshaCaveTemp_v64.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruvannamalaiT_/PachaiammanTemple_v50.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruvannamalaiT_/AdiAnnamalaiTemple_v93.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruvannamalaiT_/BoothaNarayanaSwam_v76.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruvannamalaiT_/ArunachaleswararTe_v79.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/iruvannamalaiT_/SkandashramamTempl_v81.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/avanglaSouthSikkimr_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/avanglaSouthSikkimr_/BuddhaParTathaTsal_v0.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/oradabadm_/KaliMataMandirv70_v16.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/oradabadm_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/oradabadm_/KameshwarnathMandi_v39.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/urats_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/urats_/AmbikaNiketanTempl_v67.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/urats_/IchchhanathMahadev_v14.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eerutm_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eerutm_/SurajKundTemplev85_v21.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eerutm_/AugharnathMandirv6_v58.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amunotriy_/yamun_v1_efg.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/jmera_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/jmera_/ajmer_v1_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/jmera_/ajmer_v2_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amleshwarm_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amleshwarm_/MamleshwarTv23_v43.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ayag_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ayag_/DakshinaArka_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ayag_/VishnupadTem_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ayag_/ManglaGaurShakt_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ayag_/Brahmayoni_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/evprayagd_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/evprayagd_/DevprayagSang_v2_qwe.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/evprayagd_/Raghunathji_v2_qwe.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/izawlMizorama_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/izawlMizorama_/shaktimandir_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/izawlMizorama_/AssamRifelmand_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ijayawadav_/laxmiNarasim_v5.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ijayawadav_/srikanakdurga_v88.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ijayawadav_/panakalaNaraSam_v5.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/atrak_/NauDeviCave_v22.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/atrak_/ShivKhoricave_v54.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/atrak_/BabaDhansar2_v24.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aharanpurS_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aharanpurS_/BalaSundariDevi_v86.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aharanpurS_/ShriDigamberJain_v28.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aharanpurS_/ShakumbhariDeviTem_v56.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elurb_/KesavaSomanathapur_v76.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elurb_/Hoysaleswara_v76.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/elurb_/Chennakesava_v76.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amchiSouthSikkimn_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amchiSouthSikkimn_/CharDha_v77.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/amchiSouthSikkimn_/GuruPadmasambhavaRin_v77.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anpurk_/BrahmavartGhatBith_v47.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anpurk_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anpurk_/AnandeshwarTempleP_v9.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anpurk_/ShriRadhaKrishna_v69.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/evagirid_/DevagiriForttemple_v14.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olkatak_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olkatak_/ISKCONKolkataSri_v70.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olkatak_/BirlaMandir_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olkatak_/KalighatKaliTemple_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olkatak_/DakshineswarKaliTe_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olkatak_/BelurMathRamakrish_v35.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/olkatak_/PareshnathJainTemp_v63.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anganNorthSikkimm_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anganNorthSikkimm_/labrang_monast_v7.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aridabadf_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aridabadf_/ShirdSafb_v3_ooo.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aridabadf_/Iskonfb_v3_ooo.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ilaspurb_/HanumanGaneshaShrin_v7.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ilaspurb_/ShriNainaDevi_v7.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ilaspurb_/ShriNainaDevirop_v7.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ilaspurb_/BhakraDam_v7.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nkleshwara_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nkleshwara_/ankleshwatirth_v1_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/nkleshwara_/swaminarayan_v1_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbaim_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbaim_/ShriMahalakshmiTem_v99.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbaim_/ISKCONTempleJuhuv1_v37.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbaim_/SiddhivinayakGanap_v43.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbaim_/BAPSShriSwaminaray_v37.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbaim_/siddheshwartemplev_v68.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbaim_/WalkeshwarTemplev7_v38.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbaim_/ShriRamMandirv58_v54.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbaim_/MumbaDeviTemplev86_v56.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbaim_/SwaminarayanMandir_v62.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/umbaim_/BabulnathTemplev32_v46.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/kolaa_/akola_v1_xyz.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/kolaa_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andharpurP_/VishnupadTemple_v72.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andharpurP_/PundalikTemple_v19.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andharpurP_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andharpurP_/GopalpurMandir_v71.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andharpurP_/LaxmiNarayanTemple_v13.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andharpurP_/VitthalRukminiMand_v14.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andharpurP_/TrimbakeshwarTempl_v37.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andharpurP_/TakpithyaVithobaTe_v29.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anchkedarP_/KalpeshwarTemplePa_v16.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anchkedarP_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anchkedarP_/MadhyamaheshwarTem_v57.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/anchkedarP_/RudranathTemplePan_v15.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/alandharj_/Devitalab_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/alandharj_/sodalmandir2019052_v67.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eoghard_/KundeshwariTemple_v73.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eoghard_/BasukinathTemple_v29.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eoghard_/MaaParvatiTemple_v78.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eoghard_/NaulakhaMandir_v88.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eoghard_/BaidyanathJyotirli_v29.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eoghard_/TapovanCaveTemples_v20.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/eoghard_/NandiTemple_v55.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/unturg_/AmareswSwa_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/unturg_/VykuntapuramVenkat_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/unturg_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/unturg_/PedakakaniBramaMa_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/unturg_/UndavalCaves_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/unturg_/SriPanakalaLakshNar_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/unturg_/SriTrikoteswSwamy_v1_aaa.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ashikn_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ashikn_/nashi_v1_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ashikn_/nashi_v2_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ashikn_/nashi_v3_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mphalManipuri_/Mahabalimple_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mphalManipuri_/ShriGovindajee_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mphalManipuri_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/adamib_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/adamib_/bhutanathaagastya_v2_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/adamib_/cavetemp_v2_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aduraim_/AlagKoviKalla_v3_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aduraim_/Meenaksh_v3_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aduraim_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aduraim_/VandiyurMari_v3_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aduraim_/KoodAzh_v3_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/aduraim_/ThirupparankuMurug_v3_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ambalpurs_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ambalpurs_/HumaLeaningTemple_v40.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ambalpurs_/SamaleswariTemple_v90.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ambalpurs_/GhanteswariTemple_v79.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hirdis_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hirdis_/KalaramTempleNashi_v34.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hirdis_/ShaniShingnapurTem_v34.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hirdis_/KhandobaMandirShir_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hirdis_/ShriSaibabaSamadhi_v56.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angrak_/BaijnathTemple_v60.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angrak_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angrak_/JwalamukhiJwalaJi_v89.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angrak_/BajreshwariDeviTem_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angrak_/ChamundaDeviTemple_v35.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angrak_/BagalamukhiTemple_v91.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angrak_/BathuTempleBathu_v38.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angrak_/MasroorRockcut_v69.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angrak_/BhagsuNagTemple_v89.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angrak_/KunalPathriTemple_v98.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angrak_/AshapuriTemple_v64.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uriP_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uriP_/GundichaTemple_v37.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uriP_/ChakraTirthaTemple_v43.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uriP_/PanchatirthaSeaGha_v48.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uriP_/BediHanumanTemple_v15.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uriP_/ShreeGopinathTempl_v36.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uriP_/MausiMaaTemple_v90.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uriP_/SonarGourangaTempl_v41.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uriP_/LokanathTemple_v2.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uriP_/AlarnathTemple_v10.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/uriP_/ShreeJagannathTempl_v73.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ammuj_/raghunath_v92.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/ammuj_/RanbireshwarTemple_v53.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/alasars_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/alasars_/JeenMataTemple_v86.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/alasars_/SalasarBalajiTempl_v42.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/richyt_/tric_v2_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/richyt_/tric_v3_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/richyt_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/richyt_/tric_v5_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/richyt_/tric_v4_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/richyt_/tric_v1_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/richyt_/tric_v6_def.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mkareshwarO_/MamleshwarTemple_v19.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mkareshwarO_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mkareshwarO_/24AvatarsGroup_v34.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mkareshwarO_/GauriSomnathTemple_v30.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mkareshwarO_/SiddhanathTemple_v58.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mkareshwarO_/RinnMukteshwarMaha_v78.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mkareshwarO_/KedareshwarTemple_v36.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/mkareshwarO_/OmkareshwarJyotirl_v82.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/izianagaramv_/pydithalliAmmav_v23.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/izianagaramv_/Ramatheertham_v23.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/undhanagnatha_/AundhaNagnat_v445.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/odhpurj_/ChamundaMataTemple_v93.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/odhpurj_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/odhpurj_/kunjbiharitemple_v12.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/odhpurj_/mandoregardens_v10.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hajurahok_/KandariyaMahadeva_v92.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/agpurn_/nagp_v1_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/agpurn_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/agpurn_/nagp_v2_abc.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angtokEastSikkimg_/mankhimemple_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angtokEastSikkimg_/hanumtokk_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angtokEastSikkimg_/ganesto_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/angtokEastSikkimg_/SriThakurbari_v8.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andedn_/NarsiNamdev_v4_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andedn_/UnkeshwarMaha_v2_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andedn_/Kaleshwar_v1_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andedn_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andedn_/HottalSiddhesh_v3_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/andedn_/AnudhyaNagn_v5_pqr.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hidambaramc_/ThillaiNataraj_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hidambaramc_/SriPasupatheswarar_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hidambaramc_/ShriBrammaraya_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hidambaramc_/ArulmiguGovindarajSwam_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hidambaramc_/IlamaiyakkinarShivKov_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hidambaramc_/ThillaiKaliAmman_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hidambaramc_/SriAnantheeswaTem_v1.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hanbadd_/LilloriSthanMandir_v85.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hanbadd_/ShaktiMandir_v48.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/hanbadd_/JhariaMaaKali_v45.webp
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/achenNorthSikkiml_/.DS_Store
+[DELETED] /Users/knkk/Downloads/0_WATERMARKING/TEST/achenNorthSikkiml_/LachenMonas_v2.webp
+[RENAMED] srir_v2_def_wm.webp -> srir_v2_def.webp
+[RENAMED] srir_v1_def_wm.webp -> srir_v1_def.webp
+[RENAMED] BanashankariTemple_v31_wm.webp -> BanashankariTemple_v31.webp
+[RENAMED] chandramouleshwara_v56_wm.webp -> chandramouleshwara_v56.webp
+[RENAMED] VadapalaniMu_v3_xxx_wm.webp -> VadapalaniMu_v3_xxx.webp
+[RENAMED] Parthasarath_v3_xxx_wm.webp -> Parthasarath_v3_xxx.webp
+[RENAMED] Marundeeswarar_v3_xxx_wm.webp -> Marundeeswarar_v3_xxx.webp
+[RENAMED] KapaleeshwarMy_v3_xxx_wm.webp -> KapaleeshwarMy_v3_xxx.webp
+[RENAMED] ShriAshtalaksh_v3_xxx_wm.webp -> ShriAshtalaksh_v3_xxx.webp
+[RENAMED] ArulmiguThi_v3_xxx_wm.webp -> ArulmiguThi_v3_xxx.webp
+[RENAMED] BhimakaliTemplev63_v34_wm.webp -> BhimakaliTemplev63_v34.webp
+[RENAMED] BhootNathTemplev26_v64_wm.webp -> BhootNathTemplev26_v64.webp
+[RENAMED] PanchvaktraMahadev_v78_wm.webp -> PanchvaktraMahadev_v78.webp
+[RENAMED] ArdhanareshwarTemp_v62_wm.webp -> ArdhanareshwarTemp_v62.webp
+[RENAMED] RewalsarLakeTemple_v67_wm.webp -> RewalsarLakeTemple_v67.webp
+[RENAMED] RaiMadhavTemplev63_v60_wm.webp -> RaiMadhavTemplev63_v60.webp
+[RENAMED] NeelkanthMahadevTe_v91_wm.webp -> NeelkanthMahadevTe_v91.webp
+[RENAMED] SidhGaneshaTemplev_v21_wm.webp -> SidhGaneshaTemplev_v21.webp
+[RENAMED] TarnaMataTemplev60_v23_wm.webp -> TarnaMataTemplev60_v23.webp
+[RENAMED] TrilokiNathTemplev_v54_wm.webp -> TrilokiNathTemplev_v54.webp
+[RENAMED] Preman_v1_abc_wm.webp -> Preman_v1_abc.webp
+[RENAMED] ISKKrishBalara_v1_abc_wm.webp -> ISKKrishBalara_v1_abc.webp
+[RENAMED] bankebiha_v1_abc_wm.webp -> bankebiha_v1_abc.webp
+[RENAMED] DwarkadhishTemplev_v55_wm.webp -> DwarkadhishTemplev_v55.webp
+[RENAMED] shrikrishnajanamst_v31_wm.webp -> shrikrishnajanamst_v31.webp
+[RENAMED] VishramGhatv42_v6_wm.webp -> VishramGhatv42_v6.webp
+[RENAMED] JeenMataTemple_v76_wm.webp -> JeenMataTemple_v76.webp
+[RENAMED] RaniSatiTemple_v38_wm.webp -> RaniSatiTemple_v38.webp
+[RENAMED] KhatuShyamjiTemple_v4_wm.webp -> KhatuShyamjiTemple_v4.webp
+[RENAMED] sriVenkaSwamykon_v0_wm.webp -> sriVenkaSwamykon_v0.webp
+[RENAMED] kanakaMah_v0_wm.webp -> kanakaMah_v0.webp
+[RENAMED] Simhach_v0_wm.webp -> Simhach_v0.webp
+[RENAMED] ISKtemple_v0_wm.webp -> ISKtemple_v0.webp
+[RENAMED] sriSampVinaya_v0_wm.webp -> sriSampVinaya_v0.webp
+[RENAMED] GauriShankarTem_v8_wm.webp -> GauriShankarTem_v8.webp
+[RENAMED] ShivaTempleChandragupt_v8_wm.webp -> ShivaTempleChandragupt_v8.webp
+[RENAMED] HariRaiTemp_v8_wm.webp -> HariRaiTemp_v8.webp
+[RENAMED] LaxmiNarayan_v8_wm.webp -> LaxmiNarayan_v8.webp
+[RENAMED] LakshanaDeviTem_v8_wm.webp -> LakshanaDeviTem_v8.webp
+[RENAMED] RadhaKrishn_v8_wm.webp -> RadhaKrishn_v8.webp
+[RENAMED] SuiMata_v8_wm.webp -> SuiMata_v8.webp
+[RENAMED] ChaurasiTemplesCompl_v8_wm.webp -> ChaurasiTemplesCompl_v8.webp
+[RENAMED] ChamundaDeviTem_v8_wm.webp -> ChamundaDeviTem_v8.webp
+[RENAMED] ISKCONTempleMysuru_v84_wm.webp -> ISKCONTempleMysuru_v84.webp
+[RENAMED] SriChamundeshwariT_v64_wm.webp -> SriChamundeshwariT_v64.webp
+[RENAMED] NandiStatueShrine_v50_wm.webp -> NandiStatueShrine_v50.webp
+[RENAMED] TashidingMonast_v123_wm.webp -> TashidingMonast_v123.webp
+[RENAMED] KaliBariTemple_v94_wm.webp -> KaliBariTemple_v94.webp
+[RENAMED] ShooliniMataTemple_v76_wm.webp -> ShooliniMataTemple_v76.webp
+[RENAMED] KamakshiDeviTemple_v29_wm.webp -> KamakshiDeviTemple_v29.webp
+[RENAMED] JakhuTempleShimla_v67_wm.webp -> JakhuTempleShimla_v67.webp
+[RENAMED] SankatMochanTemple_v38_wm.webp -> SankatMochanTemple_v38.webp
+[RENAMED] TaraDeviTemple_v89_wm.webp -> TaraDeviTemple_v89.webp
+[RENAMED] MahamayaTempleKalk_v62_wm.webp -> MahamayaTempleKalk_v62.webp
+[RENAMED] HatkotiTempleRohru_v34_wm.webp -> HatkotiTempleRohru_v34.webp
+[RENAMED] HatuMataTemple_v64_wm.webp -> HatuMataTemple_v64.webp
+[RENAMED] JakhDevtaTemple_v1_wm.webp -> JakhDevtaTemple_v1.webp
+[RENAMED] VindhyavasiniDeviT_v57_wm.webp -> VindhyavasiniDeviT_v57.webp
+[RENAMED] KalyaniDeviTemple_v16_wm.webp -> KalyaniDeviTemple_v16.webp
+[RENAMED] LalitaDeviTemple_v41_wm.webp -> LalitaDeviTemple_v41.webp
+[RENAMED] BharadwajAshramPra_v48_wm.webp -> BharadwajAshramPra_v48.webp
+[RENAMED] ShivkutiMahadevTem_v50_wm.webp -> ShivkutiMahadevTem_v50.webp
+[RENAMED] MankameshwarTemple_v82_wm.webp -> MankameshwarTemple_v82.webp
+[RENAMED] ShriNagVasuki_v79_wm.webp -> ShriNagVasuki_v79.webp
+[RENAMED] ShriBadeHanuman_v49_wm.webp -> ShriBadeHanuman_v49.webp
+[RENAMED] AlopiDeviMandir_v38_wm.webp -> AlopiDeviMandir_v38.webp
+[RENAMED] TriveniSangamPraya_v2_wm.webp -> TriveniSangamPraya_v2.webp
+[RENAMED] LaxmiNarayanBari_b2_wm.webp -> LaxmiNarayanBari_b2.webp
+[RENAMED] Chaturdasha_b2_wm.webp -> Chaturdasha_b2.webp
+[RENAMED] ShriJagannathTem_b2_wm.webp -> ShriJagannathTem_b2.webp
+[RENAMED] ChandiDeviTemple_v35_wm.webp -> ChandiDeviTemple_v35.webp
+[RENAMED] HarkiPauri_v42_wm.webp -> HarkiPauri_v42.webp
+[RENAMED] DakshaMahadevTempl_v2_wm.webp -> DakshaMahadevTempl_v2.webp
+[RENAMED] mansadevitemple_v13_wm.webp -> mansadevitemple_v13.webp
+[RENAMED] SabarimalaSreeDhar_v45_wm.webp -> SabarimalaSreeDhar_v45.webp
+[RENAMED] MohanShaktiNationa_v8_wm.webp -> MohanShaktiNationa_v8.webp
+[RENAMED] JatoliShivTemple_v78_wm.webp -> JatoliShivTemple_v78.webp
+[RENAMED] ShriShooliniMata_v62_wm.webp -> ShriShooliniMata_v62.webp
+[RENAMED] KarolDeviTemple_v95_wm.webp -> KarolDeviTemple_v95.webp
+[RENAMED] DoddaGanapathi_v45_wm.webp -> DoddaGanapathi_v45.webp
+[RENAMED] DoddaBasavana_v45_wm.webp -> DoddaBasavana_v45.webp
+[RENAMED] KoteSriPrasannaVenka_v45_wm.webp -> KoteSriPrasannaVenka_v45.webp
+[RENAMED] PrasannAnjaneyaswam_v45_wm.webp -> PrasannAnjaneyaswam_v45.webp
+[RENAMED] GaviGangadhareshwa_v45_wm.webp -> GaviGangadhareshwa_v45.webp
+[RENAMED] JagannathTempHSR_v45_wm.webp -> JagannathTempHSR_v45.webp
+[RENAMED] HalasuruSomeshwarSwam_v45_wm.webp -> HalasuruSomeshwarSwam_v45.webp
+[RENAMED] BanashankariAmm_v45_wm.webp -> BanashankariAmm_v45.webp
+[RENAMED] DomlurSriChokkanathaswam_v45_wm.webp -> DomlurSriChokkanathaswam_v45.webp
+[RENAMED] ISKRadhaKri_v45_wm.webp -> ISKRadhaKri_v45.webp
+[RENAMED] SriVenkateswaraTem_v36_wm.webp -> SriVenkateswaraTem_v36.webp
+[RENAMED] sanghitemple_v56_wm.webp -> sanghitemple_v56.webp
+[RENAMED] PeddammaTemple_v94_wm.webp -> PeddammaTemple_v94.webp
+[RENAMED] ISKCONHyderabad_v3_wm.webp -> ISKCONHyderabad_v3.webp
+[RENAMED] BalkampetEllammaTe_v63_wm.webp -> BalkampetEllammaTe_v63.webp
+[RENAMED] UjjainiMahakaliTem_v28_wm.webp -> UjjainiMahakaliTem_v28.webp
+[RENAMED] BirlaMandirin_v97_wm.webp -> BirlaMandirin_v97.webp
+[RENAMED] JagannathTemple_v86_wm.webp -> JagannathTemple_v86.webp
+[RENAMED] ChilkurBalajiTempl_v65_wm.webp -> ChilkurBalajiTempl_v65.webp
+[RENAMED] karmanghathanumant_v41_wm.webp -> karmanghathanumant_v41.webp
+[RENAMED] varan_v8_xyz_wm.webp -> varan_v8_xyz.webp
+[RENAMED] varan_v1_xyz_wm.webp -> varan_v1_xyz.webp
+[RENAMED] varan_v4_xyz_wm.webp -> varan_v4_xyz.webp
+[RENAMED] varan_v7_xyz_wm.webp -> varan_v7_xyz.webp
+[RENAMED] varan_v2_xyz_wm.webp -> varan_v2_xyz.webp
+[RENAMED] varan_v11_xyz_wm.webp -> varan_v11_xyz.webp
+[RENAMED] varan_v5_xyz_wm.webp -> varan_v5_xyz.webp
+[RENAMED] varan_v9_xyz_wm.webp -> varan_v9_xyz.webp
+[RENAMED] varan_v10_xyz_wm.webp -> varan_v10_xyz.webp
+[RENAMED] varan_v3_xyz_wm.webp -> varan_v3_xyz.webp
+[RENAMED] varan_v6_xyz_wm.webp -> varan_v6_xyz.webp
+[RENAMED] SriVenkataramanaTe_v30_wm.webp -> SriVenkataramanaTe_v30.webp
+[RENAMED] ShreeMariyammaTemp_v1_wm.webp -> ShreeMariyammaTemp_v1.webp
+[RENAMED] KadriSriManjunatha_v29_wm.webp -> KadriSriManjunatha_v29.webp
+[RENAMED] ShreeVishnumurthyT_v60_wm.webp -> ShreeVishnumurthyT_v60.webp
+[RENAMED] KateelDurgaParames_v3_wm.webp -> KateelDurgaParames_v3.webp
+[RENAMED] KudroliGokarnanath_v65_wm.webp -> KudroliGokarnanath_v65.webp
+[RENAMED] SriKalikambaVinaya_v96_wm.webp -> SriKalikambaVinaya_v96.webp
+[RENAMED] ShreeSharavuMahaga_v2_wm.webp -> ShreeSharavuMahaga_v2.webp
+[RENAMED] ShreeNandaneshwara_v73_wm.webp -> ShreeNandaneshwara_v73.webp
+[RENAMED] ShriMangaladeviTem_v32_wm.webp -> ShriMangaladeviTem_v32.webp
+[RENAMED] HatkeshwarTempleVa_v99_wm.webp -> HatkeshwarTempleVa_v99.webp
+[RENAMED] ShriAjitnathJain_v45_wm.webp -> ShriAjitnathJain_v45.webp
+[RENAMED] BAPSShriSwaminaray_v94_wm.webp -> BAPSShriSwaminaray_v94.webp
+[RENAMED] shribahucharajimat_v5_wm.webp -> shribahucharajimat_v5.webp
+[RENAMED] ShriKashiVishwanat_v75_wm.webp -> ShriKashiVishwanat_v75.webp
+[RENAMED] iskconmehsanamodhe_v45_wm.webp -> iskconmehsanamodhe_v45.webp
+[RENAMED] ModheraSunTemple_v88_wm.webp -> ModheraSunTemple_v88.webp
+[RENAMED] ShriUmiyaMataji_v83_wm.webp -> ShriUmiyaMataji_v83.webp
+[RENAMED] VaishnoDham_v67_wm.webp -> VaishnoDham_v67.webp
+[RENAMED] ShriLaxminath_v67_wm.webp -> ShriLaxminath_v67.webp
+[RENAMED] SethBhandasarJain_v67_wm.webp -> SethBhandasarJain_v67.webp
+[RENAMED] ShivBari_v67_wm.webp -> ShivBari_v67.webp
+[RENAMED] KodamdesarBhaira_v67_wm.webp -> KodamdesarBhaira_v67.webp
+[RENAMED] KarniMata_v67_wm.webp -> KarniMata_v67.webp
+[RENAMED] Vijayavittala_v2_abc_wm.webp -> Vijayavittala_v2_abc.webp
+[RENAMED] Hazaraama_v2_abc_wm.webp -> Hazaraama_v2_abc.webp
+[RENAMED] Virupaks_v2_abc_wm.webp -> Virupaks_v2_abc.webp
+[RENAMED] ChandrikaDeviTempl_v53_wm.webp -> ChandrikaDeviTempl_v53.webp
+[RENAMED] MankameshwarMahade_v12_wm.webp -> MankameshwarMahade_v12.webp
+[RENAMED] HanumanSetuMandir_v86_wm.webp -> HanumanSetuMandir_v86.webp
+[RENAMED] AliganjHanuman_v1_wm.webp -> AliganjHanuman_v1.webp
+[RENAMED] ISKCONTemple_v45_wm.webp -> ISKCONTemple_v45.webp
+[RENAMED] PitraParvat_v25_wm.webp -> PitraParvat_v25.webp
+[RENAMED] DevguradiaShivaTem_v55_wm.webp -> DevguradiaShivaTem_v55.webp
+[RENAMED] KanchMandir_v29_wm.webp -> KanchMandir_v29.webp
+[RENAMED] ShreeAnnapurnaTemp_v4_wm.webp -> ShreeAnnapurnaTemp_v4.webp
+[RENAMED] BadaGanpatiTemple_v43_wm.webp -> BadaGanpatiTemple_v43.webp
+[RENAMED] GopalMandir_v79_wm.webp -> GopalMandir_v79.webp
+[RENAMED] KhajranaGaneshTemp_v11_wm.webp -> KhajranaGaneshTemp_v11.webp
+[RENAMED] BijasanMataTemple_v2_wm.webp -> BijasanMataTemple_v2.webp
+[RENAMED] RaghunathTemple_v63_wm.webp -> RaghunathTemple_v63.webp
+[RENAMED] ShringaRishiTemple_v91_wm.webp -> ShringaRishiTemple_v91.webp
+[RENAMED] ShivTempleManikara_v38_wm.webp -> ShivTempleManikara_v38.webp
+[RENAMED] HidimbaDeviTemple_v75_wm.webp -> HidimbaDeviTemple_v75.webp
+[RENAMED] RamMandirManikaran_v74_wm.webp -> RamMandirManikaran_v74.webp
+[RENAMED] VashishtTemple_v50_wm.webp -> VashishtTemple_v50.webp
+[RENAMED] SiyaliMahadevTempl_v85_wm.webp -> SiyaliMahadevTempl_v85.webp
+[RENAMED] ManuTemple_v93_wm.webp -> ManuTemple_v93.webp
+[RENAMED] BijliMahadevTemple_v81_wm.webp -> BijliMahadevTemple_v81.webp
+[RENAMED] BishweshwarMahadev_v15_wm.webp -> BishweshwarMahadev_v15.webp
+[RENAMED] MonoNandi_v4_ghi_wm.webp -> MonoNandi_v4_ghi.webp
+[RENAMED] VeerabhadraTemp_v4_ghi_wm.webp -> VeerabhadraTemp_v4_ghi.webp
+[RENAMED] PadmavathiAmmavari_v11_wm.webp -> PadmavathiAmmavari_v11.webp
+[RENAMED] GovindarajaswamiTe_v78_wm.webp -> GovindarajaswamiTe_v78.webp
+[RENAMED] VenkateswaraTemple_v25_wm.webp -> VenkateswaraTemple_v25.webp
+[RENAMED] KapileswaraSwamyTe_v43_wm.webp -> KapileswaraSwamyTe_v43.webp
+[RENAMED] KodandaramaSwamyTe_v55_wm.webp -> KodandaramaSwamyTe_v55.webp
+[RENAMED] KalyanaVenkateswar_v85_wm.webp -> KalyanaVenkateswar_v85.webp
+[RENAMED] Ramac_v2_xyz_wm.webp -> Ramac_v2_xyz.webp
+[RENAMED] sun_v2_xyz_wm.webp -> sun_v2_xyz.webp
+[RENAMED] ChandraBh_v2_xyz_wm.webp -> ChandraBh_v2_xyz.webp
+[RENAMED] gorakhnathtem_v98_wm.webp -> gorakhnathtem_v98.webp
+[RENAMED] VishnMandi_v1_aaa_wm.webp -> VishnMandi_v1_aaa.webp
+[RENAMED] yada_v1_efg_wm.webp -> yada_v1_efg.webp
+[RENAMED] ChhatarpuKatyay_v2_qqq_wm.webp -> ChhatarpuKatyay_v2_qqq.webp
+[RENAMED] PrachinHanuman_v2_qqq_wm.webp -> PrachinHanuman_v2_qqq.webp
+[RENAMED] AadyaKatyayaniShakti_v2_qqq_wm.webp -> AadyaKatyayaniShakti_v2_qqq.webp
+[RENAMED] SwaminarayanAksha_v2_qqq_wm.webp -> SwaminarayanAksha_v2_qqq.webp
+[RENAMED] KalkajiMand_v2_qqq_wm.webp -> KalkajiMand_v2_qqq.webp
+[RENAMED] GauriShankarChandni_v2_qqq_wm.webp -> GauriShankarChandni_v2_qqq.webp
+[RENAMED] Yogmaya_v2_qqq_wm.webp -> Yogmaya_v2_qqq.webp
+[RENAMED] thiru_v4_mno_wm.webp -> thiru_v4_mno.webp
+[RENAMED] thiru_v1_mno_wm.webp -> thiru_v1_mno.webp
+[RENAMED] thiru_v2_mno_wm.webp -> thiru_v2_mno.webp
+[RENAMED] thiru_v5_mno_wm.webp -> thiru_v5_mno.webp
+[RENAMED] thiru_v3_mno_wm.webp -> thiru_v3_mno.webp
+[RENAMED] SamayapuramMariamm_v90_wm.webp -> SamayapuramMariamm_v90.webp
+[RENAMED] RockFortTemple_v27_wm.webp -> RockFortTemple_v27.webp
+[RENAMED] SriRanganathaswamy_v27_wm.webp -> SriRanganathaswamy_v27.webp
+[RENAMED] UcchiPillayarTempl_v98_wm.webp -> UcchiPillayarTempl_v98.webp
+[RENAMED] NageswaranTemple_v12_wm.webp -> NageswaranTemple_v12.webp
+[RENAMED] UppiliappanTemple_v39_wm.webp -> UppiliappanTemple_v39.webp
+[RENAMED] AdiKumbheshwararTe_v34_wm.webp -> AdiKumbheshwararTe_v34.webp
+[RENAMED] SwamimalaiMuruganT_v69_wm.webp -> SwamimalaiMuruganT_v69.webp
+[RENAMED] RamaswamyTemple_v74_wm.webp -> RamaswamyTemple_v74.webp
+[RENAMED] KasiViswanatharTem_v24_wm.webp -> KasiViswanatharTem_v24.webp
+[RENAMED] SarangapaniTemple_v75_wm.webp -> SarangapaniTemple_v75.webp
+[RENAMED] AiravatesvaraTempl_v97_wm.webp -> AiravatesvaraTempl_v97.webp
+[RENAMED] ChakrapaniTemple_v68_wm.webp -> ChakrapaniTemple_v68.webp
+[RENAMED] ShriRamRaja_v32_wm.webp -> ShriRamRaja_v32.webp
+[RENAMED] sakhikehanuman_v66_wm.webp -> sakhikehanuman_v66.webp
+[RENAMED] panchkuianmandirsh_v97_wm.webp -> panchkuianmandirsh_v97.webp
+[RENAMED] BAPSShriSwaminaray_v68_wm.webp -> BAPSShriSwaminaray_v68.webp
+[RENAMED] RudranathTemplePan_v70_wm.webp -> RudranathTemplePan_v70.webp
+[RENAMED] PanchnathMahadevTe_v83_wm.webp -> PanchnathMahadevTe_v83.webp
+[RENAMED] hanumangar_v5_wwx_wm.webp -> hanumangar_v5_wwx.webp
+[RENAMED] kanak_v5_wwx_wm.webp -> kanak_v5_wwx.webp
+[RENAMED] ramjanmabh_v5_wwx_wm.webp -> ramjanmabh_v5_wwx.webp
+[RENAMED] LingTem_v3_def_wm.webp -> LingTem_v3_def.webp
+[RENAMED] Parasurameswar_v3_def_wm.webp -> Parasurameswar_v3_def.webp
+[RENAMED] BaitalaDaula_v3_def_wm.webp -> BaitalaDaula_v3_def.webp
+[RENAMED] MuktesTe_v3_def_wm.webp -> MuktesTe_v3_def.webp
+[RENAMED] RamMand_v3_def_wm.webp -> RamMand_v3_def.webp
+[RENAMED] RajRan_v3_def_wm.webp -> RajRan_v3_def.webp
+[RENAMED] ChausatYogi_v3_def_wm.webp -> ChausatYogi_v3_def.webp
+[RENAMED] AnantaVasu_v3_def_wm.webp -> AnantaVasu_v3_def.webp
+[RENAMED] KedarGaur_v3_def_wm.webp -> KedarGaur_v3_def.webp
+[RENAMED] Brahmeshwar_v3_def_wm.webp -> Brahmeshwar_v3_def.webp
+[RENAMED] ArulmigPeriy_v1_abc_wm.webp -> ArulmigPeriy_v1_abc.webp
+[RENAMED] ArulmiguBan_v1_abc_wm.webp -> ArulmiguBan_v1_abc.webp
+[RENAMED] KonguTirup_v1_abc_wm.webp -> KonguTirup_v1_abc.webp
+[RENAMED] thinda_v1_abc_wm.webp -> thinda_v1_abc.webp
+[RENAMED] BhavanSan_v1_abc_wm.webp -> BhavanSan_v1_abc.webp
+[RENAMED] ArulmiguChenni_v1_abc_wm.webp -> ArulmiguChenni_v1_abc.webp
+[RENAMED] SriMallikarjunaSwa_v84_wm.webp -> SriMallikarjunaSwa_v84.webp
+[RENAMED] ISKC_v12_wm.webp -> ISKC_v12.webp
+[RENAMED] EME_n12_wm.webp -> EME_n12.webp
+[RENAMED] suryaNaray_v12_wm.webp -> suryaNaray_v12.webp
+[RENAMED] VishwanathTemplev7_v94_wm.webp -> VishwanathTemplev7_v94.webp
+[RENAMED] GuruvayurtempleKer_v19_wm.webp -> GuruvayurtempleKer_v19.webp
+[RENAMED] SreeVadakkumnathan_v50_wm.webp -> SreeVadakkumnathan_v50.webp
+[RENAMED] ThiruvambadySreeKr_v70_wm.webp -> ThiruvambadySreeKr_v70.webp
+[RENAMED] ParamekkavuBhagava_v5_wm.webp -> ParamekkavuBhagava_v5.webp
+[RENAMED] TriprayarSreeRamas_v21_wm.webp -> TriprayarSreeRamas_v21.webp
+[RENAMED] GupteswarTemp_v56_wm_wm.webp -> GupteswarTemp_v56_wm.webp
+[RENAMED] VarahanathTem_v556_wm_wm.webp -> VarahanathTem_v556_wm.webp
+[RENAMED] BaladevjewTemp_v1_wm_wm.webp -> BaladevjewTemp_v1_wm.webp
+[RENAMED] panchalingeshwar_v4_wm_wm.webp -> panchalingeshwar_v4_wm.webp
+[RENAMED] Manikeshwari_v453_wm_wm.webp -> Manikeshwari_v453_wm.webp
+[RENAMED] MaaTarini_v348_wm_wm.webp -> MaaTarini_v348_wm.webp
+[RENAMED] BirajaTemJajpur_v128_wm_wm.webp -> BirajaTemJajpur_v128_wm.webp
+[RENAMED] MaaRamachandi_v8_wm_wm.webp -> MaaRamachandi_v8_wm.webp
+[RENAMED] TaraTarini_v23_wm_wm.webp -> TaraTarini_v23_wm.webp
+[RENAMED] MaaAmbikaTemBar_v3_wm_wm.webp -> MaaAmbikaTemBar_v3_wm.webp
+[RENAMED] MaaSaralaJagatSingh_v882_wm_wm.webp -> MaaSaralaJagatSingh_v882_wm.webp
+[RENAMED] KapilashChandra_v7_wm_wm.webp -> KapilashChandra_v7_wm.webp
+[RENAMED] KhirachoraGopi_v7_wm_wm.webp -> KhirachoraGopi_v7_wm.webp
+[RENAMED] JagannathTempleBa_v1_wm_wm.webp -> JagannathTempleBa_v1_wm.webp
+[RENAMED] Jagdish_Tem_v8_wm.webp -> Jagdish_Tem_v8.webp
+[RENAMED] neemachmata_v8_wm.webp -> neemachmata_v8.webp
+[RENAMED] Eklingaji_v8_wm.webp -> Eklingaji_v8.webp
+[RENAMED] ErnakulathappanTem_v5_wm.webp -> ErnakulathappanTem_v5.webp
+[RENAMED] ThiruvanchikulamMa_v75_wm.webp -> ThiruvanchikulamMa_v75.webp
+[RENAMED] KadungalloorSreeNa_v99_wm.webp -> KadungalloorSreeNa_v99.webp
+[RENAMED] ErnakulathappanTem_v88_wm.webp -> ErnakulathappanTem_v88.webp
+[RENAMED] SreePoornathrayees_v69_wm.webp -> SreePoornathrayees_v69.webp
+[RENAMED] badrinat_v1_aaa_wm.webp -> badrinat_v1_aaa.webp
+[RENAMED] RukminiDeviTemple_v52_wm.webp -> RukminiDeviTemple_v52.webp
+[RENAMED] NageshwarJyotirlin_v30_wm.webp -> NageshwarJyotirlin_v30.webp
+[RENAMED] DwarkadhishTemple0_v51_wm.webp -> DwarkadhishTemple0_v51.webp
+[RENAMED] kapileshwarBelg_v99_wm.webp -> kapileshwarBelg_v99.webp
+[RENAMED] KamalBasadiBelaga_v99_wm.webp -> KamalBasadiBelaga_v99.webp
+[RENAMED] ShriMallikarMa_v5_ggg_wm.webp -> ShriMallikarMa_v5_ggg.webp
+[RENAMED] PrachinShiv_v5_ggg_wm.webp -> PrachinShiv_v5_ggg.webp
+[RENAMED] BanthalaShi_v5_ggg_wm.webp -> BanthalaShi_v5_ggg.webp
+[RENAMED] ShriVitthalRukmini_v27_wm.webp -> ShriVitthalRukmini_v27.webp
+[RENAMED] SiddheshwarTemple_v68_wm.webp -> SiddheshwarTemple_v68.webp
+[RENAMED] Siva_3_Dol_v7_wm.webp -> Siva_3_Dol_v7.webp
+[RENAMED] BirlaMan_v78_wm.webp -> BirlaMan_v78.webp
+[RENAMED] Bhojeshwar_v78_wm.webp -> Bhojeshwar_v78.webp
+[RENAMED] ArulmiguEkambaresw_v48_wm.webp -> ArulmiguEkambaresw_v48.webp
+[RENAMED] ArulmiguVaradaraja_v23_wm.webp -> ArulmiguVaradaraja_v23.webp
+[RENAMED] SriKanchiKamakshi_v11_wm.webp -> SriKanchiKamakshi_v11.webp
+[RENAMED] HanumanTemplePaont_v17_wm.webp -> HanumanTemplePaont_v17.webp
+[RENAMED] HanumanTemple_v3_wm.webp -> HanumanTemple_v3.webp
+[RENAMED] ShivaTemplePaonta_v31_wm.webp -> ShivaTemplePaonta_v31.webp
+[RENAMED] LocalDeviTemple_v95_wm.webp -> LocalDeviTemple_v95.webp
+[RENAMED] ShivaTempleNahan_v49_wm.webp -> ShivaTempleNahan_v49.webp
+[RENAMED] RenukaJiTemple_v91_wm.webp -> RenukaJiTemple_v91.webp
+[RENAMED] DurgaTempleNahan_v31_wm.webp -> DurgaTempleNahan_v31.webp
+[RENAMED] ParshuramTempleRen_v47_wm.webp -> ParshuramTempleRen_v47.webp
+[RENAMED] YamunaDeviTemple_v69_wm.webp -> YamunaDeviTemple_v69.webp
+[RENAMED] SuryaTempleRenuka_v38_wm.webp -> SuryaTempleRenuka_v38.webp
+[RENAMED] ShriSomnathJyotirl_v28_wm.webp -> ShriSomnathJyotirl_v28.webp
+[RENAMED] ahmed_v2_pqr_wm.webp -> ahmed_v2_pqr.webp
+[RENAMED] ahmed_v7_pqr_wm.webp -> ahmed_v7_pqr.webp
+[RENAMED] ahmed_v4_pqr_wm.webp -> ahmed_v4_pqr.webp
+[RENAMED] ahmed_v1_pqr_wm.webp -> ahmed_v1_pqr.webp
+[RENAMED] ahmed_v8_pqr_wm.webp -> ahmed_v8_pqr.webp
+[RENAMED] ahmed_v6_pqr_wm.webp -> ahmed_v6_pqr.webp
+[RENAMED] ahmed_v3_pqr_wm.webp -> ahmed_v3_pqr.webp
+[RENAMED] ahmed_v9_pqr_wm.webp -> ahmed_v9_pqr.webp
+[RENAMED] ahmed_v5_pqr_wm.webp -> ahmed_v5_pqr.webp
+[RENAMED] BabaAlakhna_v1_wm.webp -> BabaAlakhna_v1.webp
+[RENAMED] TrivatiNathMan_v1_wm.webp -> TrivatiNathMan_v1.webp
+[RENAMED] PancharamaKshetras_wm_wm_wm.webp -> PancharamaKshetras_wm_wm.webp
+[RENAMED] KanwarYatraPathway_wm_wm_wm.webp -> KanwarYatraPathway_wm_wm.webp
+[RENAMED] AayapaSwanyShrines_wm_wm_wm.webp -> AayapaSwanyShrines_wm_wm.webp
+[RENAMED] NorthCharDham_wm_wm_wm.webp -> NorthCharDham_wm_wm.webp
+[RENAMED] TwelveJyotirlingas_wm_wm_wm.webp -> TwelveJyotirlingas_wm_wm.webp
+[RENAMED] AstaVinayak_wm_wm_wm.webp -> AstaVinayak_wm_wm.webp
+[RENAMED] PanchBhoothStalam_wm_wm_wm.webp -> PanchBhoothStalam_wm_wm.webp
+[RENAMED] DattaPeethas_wm_wm_wm.webp -> DattaPeethas_wm_wm.webp
+[RENAMED] CharDham_wm_wm_wm.webp -> CharDham_wm_wm.webp
+[RENAMED] FourAmnayaMathas_wm_wm_wm.webp -> FourAmnayaMathas_wm_wm.webp
+[RENAMED] KumbhMelaCircuit_wm_wm_wm.webp -> KumbhMelaCircuit_wm_wm.webp
+[RENAMED] NabagrahaTemples_wm_wm_wm.webp -> NabagrahaTemples_wm_wm.webp
+[RENAMED] ShaktiPeethhas_wm_wm_wm.webp -> ShaktiPeethhas_wm_wm.webp
+[RENAMED] SabarimalaCircuit_wm_wm_wm.webp -> SabarimalaCircuit_wm_wm.webp
+[RENAMED] PanchKedar_wm_wm_wm.webp -> PanchKedar_wm_wm.webp
+[RENAMED] NauDeviCircuit_wm_wm_wm.webp -> NauDeviCircuit_wm_wm.webp
+[RENAMED] SaptaPuri_wm_wm_wm.webp -> SaptaPuri_wm_wm.webp
+[RENAMED] MuruganAarupadaiVeedu_wm_wm_wm.webp -> MuruganAarupadaiVeedu_wm_wm.webp
+[RENAMED] PanchaRathas_v63_wm.webp -> PanchaRathas_v63.webp
+[RENAMED] ArjunaPenance_v91_wm.webp -> ArjunaPenance_v91.webp
+[RENAMED] shoretempleKadalma_v6_wm.webp -> shoretempleKadalma_v6.webp
+[RENAMED] VarahaCaveTemple_v6_wm.webp -> VarahaCaveTemple_v6.webp
+[RENAMED] waran_v1_efg_wm.webp -> waran_v1_efg.webp
+[RENAMED] waran_v2_efg_wm.webp -> waran_v2_efg.webp
+[RENAMED] waran_v3_efg_wm.webp -> waran_v3_efg.webp
+[RENAMED] DasnaDev_v1_aaa_wm.webp -> DasnaDev_v1_aaa.webp
+[RENAMED] ShriDudheNat_v1_aaa_wm.webp -> ShriDudheNat_v1_aaa.webp
+[RENAMED] ShriAchleshwarMaha_v1_aaa_wm.webp -> ShriAchleshwarMaha_v1_aaa.webp
+[RENAMED] JaurasiHanu_v1_aaa_wm.webp -> JaurasiHanu_v1_aaa.webp
+[RENAMED] SunTemp_v1_aaa_wm.webp -> SunTemp_v1_aaa.webp
+[RENAMED] TelikaMan_v1_aaa_wm.webp -> TelikaMan_v1_aaa.webp
+[RENAMED] KhedapatiHan_v1_aaa_wm.webp -> KhedapatiHan_v1_aaa.webp
+[RENAMED] Chaturbhujv_v1_aaa_wm.webp -> Chaturbhujv_v1_aaa.webp
+[RENAMED] SasbahTem_v1_aaa_wm.webp -> SasbahTem_v1_aaa.webp
+[RENAMED] KoteshwarTem_v1_aaa_wm.webp -> KoteshwarTem_v1_aaa.webp
+[RENAMED] GorkhaSingmand_v4_wm.webp -> GorkhaSingmand_v4.webp
+[RENAMED] durgabariman_v4_wm.webp -> durgabariman_v4.webp
+[RENAMED] PemayangtseMonast_v6_wm.webp -> PemayangtseMonast_v6.webp
+[RENAMED] ShriMaha_v3_efg_wm.webp -> ShriMaha_v3_efg.webp
+[RENAMED] ShriVaishn_v3_efg_wm.webp -> ShriVaishn_v3_efg.webp
+[RENAMED] Neelakanteshwar_v3_ccc_wm.webp -> Neelakanteshwar_v3_ccc.webp
+[RENAMED] MotiDungriGanesh_v56_wm.webp -> MotiDungriGanesh_v56.webp
+[RENAMED] ShriGovindDev_v5_wm.webp -> ShriGovindDev_v5.webp
+[RENAMED] BirlaMandir_v70_wm.webp -> BirlaMandir_v70.webp
+[RENAMED] NavagrahaTe_v1_aaa_wm.webp -> NavagrahaTe_v1_aaa.webp
+[RENAMED] KamakTem_v1_aaa_wm.webp -> KamakTem_v1_aaa.webp
+[RENAMED] HayagrivaMadhava_v1_aaa_wm.webp -> HayagrivaMadhava_v1_aaa.webp
+[RENAMED] Basistha_v1_aaa_wm.webp -> Basistha_v1_aaa.webp
+[RENAMED] Gorakhnat_v1_aaa_wm.webp -> Gorakhnat_v1_aaa.webp
+[RENAMED] PurvaTirupati_v1_aaa_wm.webp -> PurvaTirupati_v1_aaa.webp
+[RENAMED] Umananda _v1_aaa_wm.webp -> Umananda _v1_aaa.webp
+[RENAMED] ShriPrakasheshwarM_v25_wm.webp -> ShriPrakasheshwarM_v25.webp
+[RENAMED] MindrollingMonaste_v20_wm.webp -> MindrollingMonaste_v20.webp
+[RENAMED] TapkeshwarMahadevT_v54_wm.webp -> TapkeshwarMahadevT_v54.webp
+[RENAMED] DamdamShiv_v1_aaa_wm.webp -> DamdamShiv_v1_aaa.webp
+[RENAMED] Karthikeya_v1_aaa_wm.webp -> Karthikeya_v1_aaa.webp
+[RENAMED] ShivKasan_v1_aaa_wm.webp -> ShivKasan_v1_aaa.webp
+[RENAMED] ShreeShivSha_v1_aaa_wm.webp -> ShreeShivSha_v1_aaa.webp
+[RENAMED] ShriMatSheetDev_v1_aaa_wm.webp -> ShriMatSheetDev_v1_aaa.webp
+[RENAMED] ISKCGurugram_v1_aaa_wm.webp -> ISKCGurugram_v1_aaa.webp
+[RENAMED] seetaldev_v4_wm.webp -> seetaldev_v4.webp
+[RENAMED] narayanmahadev_v69_wm.webp -> narayanmahadev_v69.webp
+[RENAMED] jmasnidevitemple_v14_wm.webp -> jmasnidevitemple_v14.webp
+[RENAMED] kaleshwarmahadev_v41_wm.webp -> kaleshwarmahadev_v41.webp
+[RENAMED] ShivBariTemple_v50_wm.webp -> ShivBariTemple_v50.webp
+[RENAMED] MataChintpurniDevi_v2_wm.webp -> MataChintpurniDevi_v2.webp
+[RENAMED] peernigaha_v41_wm.webp -> peernigaha_v41.webp
+[RENAMED] muchkundmahadev_v89_wm.webp -> muchkundmahadev_v89.webp
+[RENAMED] KotlaKalanShiv_v38_wm.webp -> KotlaKalanShiv_v38.webp
+[RENAMED] DudhadhariTempleMa_v46_wm.webp -> DudhadhariTempleMa_v46.webp
+[RENAMED] MaaBanjariMandir_v1_wm.webp -> MaaBanjariMandir_v1.webp
+[RENAMED] gangotri_v1_aaa_wm.webp -> gangotri_v1_aaa.webp
+[RENAMED] NeelkanteshwarTemp_v28_wm.webp -> NeelkanteshwarTemp_v28.webp
+[RENAMED] ShreemantDagdushet_v85_wm.webp -> ShreemantDagdushet_v85.webp
+[RENAMED] ChaturshringiTempl_v56_wm.webp -> ChaturshringiTempl_v56.webp
+[RENAMED] ParvatiHillTemple_v1_wm.webp -> ParvatiHillTemple_v1.webp
+[RENAMED] PataleshwarCaveTem_v47_wm.webp -> PataleshwarCaveTem_v47.webp
+[RENAMED] KatrajJainTemple_v67_wm.webp -> KatrajJainTemple_v67.webp
+[RENAMED] KasbaGanpatiTemple_v27_wm.webp -> KasbaGanpatiTemple_v27.webp
+[RENAMED] OmkareshwarTempleS_v2_wm.webp -> OmkareshwarTempleS_v2.webp
+[RENAMED] SarasbaugGanpatiTe_v83_wm.webp -> SarasbaugGanpatiTe_v83.webp
+[RENAMED] ISKCONNVCCSri_v31_wm.webp -> ISKCONNVCCSri_v31.webp
+[RENAMED] kirateshwar_mahaleg_v5_wm.webp -> kirateshwar_mahaleg_v5.webp
+[RENAMED] MarudhamalaiHillTe_v25_wm.webp -> MarudhamalaiHillTe_v25.webp
+[RENAMED] PerurPatteeswararP_v45_wm.webp -> PerurPatteeswararP_v45.webp
+[RENAMED] ArulmiguEachanariV_v55_wm.webp -> ArulmiguEachanariV_v55.webp
+[RENAMED] noid_v2_pqr_wm.webp -> noid_v2_pqr.webp
+[RENAMED] noid_v1_pqr_wm.webp -> noid_v1_pqr.webp
+[RENAMED] noid_v3_pqr_wm.webp -> noid_v3_pqr.webp
+[RENAMED] PhensongMon_v9_wm.webp -> PhensongMon_v9.webp
+[RENAMED] balkeshwar_v1_def_wm.webp -> balkeshwar_v1_def.webp
+[RENAMED] mankameshwar_v1_def_wm.webp -> mankameshwar_v1_def.webp
+[RENAMED] TriveniGhat_v40_wm.webp -> TriveniGhat_v40.webp
+[RENAMED] ShriBharatMandir_v18_wm.webp -> ShriBharatMandir_v18.webp
+[RENAMED] NeelkanthMahadevTe_v90_wm.webp -> NeelkanthMahadevTe_v90.webp
+[RENAMED] amrit_v2_abc_wm.webp -> amrit_v2_abc.webp
+[RENAMED] amrit_v1_abc_wm.webp -> amrit_v1_abc.webp
+[RENAMED] JagannathTemple_v74_wm.webp -> JagannathTemple_v74.webp
+[RENAMED] DeoriMandir_v86_wm.webp -> DeoriMandir_v86.webp
+[RENAMED] BrihadeeswararTemp_v38_wm.webp -> BrihadeeswararTemp_v38.webp
+[RENAMED] AiravatesvaraTempl_v85_wm.webp -> AiravatesvaraTempl_v85.webp
+[RENAMED] ThanjaiMamaniKoil_v47_wm.webp -> ThanjaiMamaniKoil_v47.webp
+[RENAMED] BrihadisvaraTemple_v52_wm.webp -> BrihadisvaraTemple_v52.webp
+[RENAMED] DhabaleswarTemp_v1_qqq_wm.webp -> DhabaleswarTemp_v1_qqq.webp
+[RENAMED] Cuttchan_v1_qqq_wm.webp -> Cuttchan_v1_qqq.webp
+[RENAMED] ParamahansaNath_v1_qqq_wm.webp -> ParamahansaNath_v1_qqq.webp
+[RENAMED] KailasaTm_v7654_wm.webp -> KailasaTm_v7654.webp
+[RENAMED] GrishneshwrJyoti_v7654_wm.webp -> GrishneshwrJyoti_v7654.webp
+[RENAMED] Bhairavna_v6_wm.webp -> Bhairavna_v6.webp
+[RENAMED] vaishnodevi_sh_v6_wm.webp -> vaishnodevi_sh_v6.webp
+[RENAMED] LakshmNarayan_gold_v1_wm.webp -> LakshmNarayan_gold_v1.webp
+[RENAMED] ArulmiguRamanathas_v18_wm.webp -> ArulmiguRamanathas_v18.webp
+[RENAMED] KachnarCityShiva_v76_wm.webp -> KachnarCityShiva_v76.webp
+[RENAMED] TripuraSundariTemp_v60_wm.webp -> TripuraSundariTemp_v60.webp
+[RENAMED] amar_v1_mno_wm.webp -> amar_v1_mno.webp
+[RENAMED] MarutiTemple_v19_wm.webp -> MarutiTemple_v19.webp
+[RENAMED] ShreeMahalaxmiTemp_v55_wm.webp -> ShreeMahalaxmiTemp_v55.webp
+[RENAMED] Harsiddhi_Tem_v2_wm.webp -> Harsiddhi_Tem_v2.webp
+[RENAMED] chintamani-ganesh_v2_wm.webp -> chintamani-ganesh_v2.webp
+[RENAMED] Mahakaleshwarjyo_v2_wm.webp -> Mahakaleshwarjyo_v2.webp
+[RENAMED] kalvairabh_v2_wm.webp -> kalvairabh_v2.webp
+[RENAMED] mangalnath_v2_wm.webp -> mangalnath_v2.webp
+[RENAMED] tuli_v3_def_wm.webp -> tuli_v3_def.webp
+[RENAMED] tuli_v6_def_wm.webp -> tuli_v6_def.webp
+[RENAMED] tuli_v5_def_wm.webp -> tuli_v5_def.webp
+[RENAMED] tuli_v2_def_wm.webp -> tuli_v2_def.webp
+[RENAMED] tuli_v1_def_wm.webp -> tuli_v1_def.webp
+[RENAMED] tuli_v4_def_wm.webp -> tuli_v4_def.webp
+[RENAMED] ShriBatukBhairav_v19_wm.webp -> ShriBatukBhairav_v19.webp
+[RENAMED] MahadevTemple_v18_wm.webp -> MahadevTemple_v18.webp
+[RENAMED] ShaniDevTemple_v2_wm.webp -> ShaniDevTemple_v2.webp
+[RENAMED] GauriShankarTemple_v63_wm.webp -> GauriShankarTemple_v63.webp
+[RENAMED] DeviTemple_v29_wm.webp -> DeviTemple_v29.webp
+[RENAMED] MurliManoharTemple_v34_wm.webp -> MurliManoharTemple_v34.webp
+[RENAMED] VyasheshwarTemple_v65_wm.webp -> VyasheshwarTemple_v65.webp
+[RENAMED] BilkleshwarMahadev_v57_wm.webp -> BilkleshwarMahadev_v57.webp
+[RENAMED] RishiMarkankyaTemp_v87_wm.webp -> RishiMarkankyaTemp_v87.webp
+[RENAMED] SidhBabaBalak_v9_wm.webp -> SidhBabaBalak_v9.webp
+[RENAMED] narvadeshwartemple_v35_wm.webp -> narvadeshwartemple_v35.webp
+[RENAMED] ShriBadiPatan_v28_wm.webp -> ShriBadiPatan_v28.webp
+[RENAMED] MahavirMandirPatna_v64_wm.webp -> MahavirMandirPatna_v64.webp
+[RENAMED] ISKCONTemplePatna_v78_wm.webp -> ISKCONTemplePatna_v78.webp
+[RENAMED] ChotiPatan_v28_wm_wm.webp -> ChotiPatan_v28_wm.webp
+[RENAMED] NarsinhwadiDattaMa_v51_wm.webp -> NarsinhwadiDattaMa_v51.webp
+[RENAMED] MahalaxmiTempleKol_v70_wm.webp -> MahalaxmiTempleKol_v70.webp
+[RENAMED] BinkhambiGaneshTem_v14_wm.webp -> BinkhambiGaneshTem_v14.webp
+[RENAMED] KopeshwarTempleKhi_v56_wm.webp -> KopeshwarTempleKhi_v56.webp
+[RENAMED] JyotibaTe_v98_wm.webp -> JyotibaTe_v98.webp
+[RENAMED] BharatMilap_v4_hhh_wm.webp -> BharatMilap_v4_hhh.webp
+[RENAMED] SatiAnusuya_v4_hhh_wm.webp -> SatiAnusuya_v4_hhh.webp
+[RENAMED] Ramghat_v4_hhh_wm.webp -> Ramghat_v4_hhh.webp
+[RENAMED] HanumanDhara_v4_hhh_wm.webp -> HanumanDhara_v4_hhh.webp
+[RENAMED] Kamadgiri_v4_hhh_wm.webp -> Kamadgiri_v4_hhh.webp
+[RENAMED] GuptGodavari_v4_hhh_wm.webp -> GuptGodavari_v4_hhh.webp
+[RENAMED] ISKCONTemple_v98_wm.webp -> ISKCONTemple_v98.webp
+[RENAMED] ShriKrishnaMandir_v60_wm.webp -> ShriKrishnaMandir_v60.webp
+[RENAMED] AdiShankaraTemple_v66_wm.webp -> AdiShankaraTemple_v66.webp
+[RENAMED] ToranaGanapatiTemp_v64_wm.webp -> ToranaGanapatiTemp_v64.webp
+[RENAMED] StambhaGanapatiTem_v79_wm.webp -> StambhaGanapatiTem_v79.webp
+[RENAMED] Malahanikareshwara_v84_wm.webp -> Malahanikareshwara_v84.webp
+[RENAMED] VidyashankaraTempl_v14_wm.webp -> VidyashankaraTempl_v14.webp
+[RENAMED] KereAnjaneyaTemple_v99_wm.webp -> KereAnjaneyaTemple_v99.webp
+[RENAMED] SharadambaTemple_v70_wm.webp -> SharadambaTemple_v70.webp
+[RENAMED] KalabhairavaTemple_v74_wm.webp -> KalabhairavaTemple_v74.webp
+[RENAMED] amara_v1_pqr_wm.webp -> amara_v1_pqr.webp
+[RENAMED] amara_v2_pqr_wm.webp -> amara_v2_pqr.webp
+[RENAMED] KottaiMariammanTem_v48_wm.webp -> KottaiMariammanTem_v48.webp
+[RENAMED] ArulmiguSugavanesw_v47_wm.webp -> ArulmiguSugavanesw_v47.webp
+[RENAMED] ISKCONSalem_v70_wm.webp -> ISKCONSalem_v70.webp
+[RENAMED] SunTemplev56_v80_wm.webp -> SunTemplev56_v80.webp
+[RENAMED] alig_v1_mno_wm.webp -> alig_v1_mno.webp
+[RENAMED] alig_v2_mno_wm.webp -> alig_v2_mno.webp
+[RENAMED] KumariAmman_v55 _wm.webp -> KumariAmman_v55 .webp
+[RENAMED] ThanumalayanSuchindram_v55_wm.webp -> ThanumalayanSuchindram_v55.webp
+[RENAMED] MatriMandir_v8_wm.webp -> MatriMandir_v8.webp
+[RENAMED] SriSriMahadev_v86_wm.webp -> SriSriMahadev_v86.webp
+[RENAMED] ArunachaleswararTe_v79_wm.webp -> ArunachaleswararTe_v79.webp
+[RENAMED] VirupakshaCaveTemp_v64_wm.webp -> VirupakshaCaveTemp_v64.webp
+[RENAMED] BoothaNarayanaSwam_v76_wm.webp -> BoothaNarayanaSwam_v76.webp
+[RENAMED] PachaiammanTemple_v50_wm.webp -> PachaiammanTemple_v50.webp
+[RENAMED] AdiAnnamalaiTemple_v93_wm.webp -> AdiAnnamalaiTemple_v93.webp
+[RENAMED] ThiruNerAnnamalai_v84_wm.webp -> ThiruNerAnnamalai_v84.webp
+[RENAMED] SkandashramamTempl_v81_wm.webp -> SkandashramamTempl_v81.webp
+[RENAMED] RettaiPillayarKoil_v45_wm.webp -> RettaiPillayarKoil_v45.webp
+[RENAMED] BuddhaParTathaTsal_v0_wm.webp -> BuddhaParTathaTsal_v0.webp
+[RENAMED] KaliMataMandirv70_v16_wm.webp -> KaliMataMandirv70_v16.webp
+[RENAMED] KameshwarnathMandi_v39_wm.webp -> KameshwarnathMandi_v39.webp
+[RENAMED] AmbikaNiketanTempl_v67_wm.webp -> AmbikaNiketanTempl_v67.webp
+[RENAMED] IchchhanathMahadev_v14_wm.webp -> IchchhanathMahadev_v14.webp
+[RENAMED] AugharnathMandirv6_v58_wm.webp -> AugharnathMandirv6_v58.webp
+[RENAMED] SurajKundTemplev85_v21_wm.webp -> SurajKundTemplev85_v21.webp
+[RENAMED] yamun_v1_efg_wm.webp -> yamun_v1_efg.webp
+[RENAMED] ajmer_v2_xyz_wm.webp -> ajmer_v2_xyz.webp
+[RENAMED] ajmer_v1_xyz_wm.webp -> ajmer_v1_xyz.webp
+[RENAMED] MamleshwarTv23_v43_wm.webp -> MamleshwarTv23_v43.webp
+[RENAMED] ManglaGaurShakt_v1_aaa_wm.webp -> ManglaGaurShakt_v1_aaa.webp
+[RENAMED] DakshinaArka_v1_aaa_wm.webp -> DakshinaArka_v1_aaa.webp
+[RENAMED] Brahmayoni_v1_aaa_wm.webp -> Brahmayoni_v1_aaa.webp
+[RENAMED] VishnupadTem_v1_aaa_wm.webp -> VishnupadTem_v1_aaa.webp
+[RENAMED] DevprayagSang_v2_qwe_wm.webp -> DevprayagSang_v2_qwe.webp
+[RENAMED] Raghunathji_v2_qwe_wm.webp -> Raghunathji_v2_qwe.webp
+[RENAMED] AssamRifelmand_v2_wm.webp -> AssamRifelmand_v2.webp
+[RENAMED] shaktimandir_v2_wm.webp -> shaktimandir_v2.webp
+[RENAMED] laxmiNarasim_v5_wm.webp -> laxmiNarasim_v5.webp
+[RENAMED] panakalaNaraSam_v5_wm.webp -> panakalaNaraSam_v5.webp
+[RENAMED] srikanakdurga_v88_wm.webp -> srikanakdurga_v88.webp
+[RENAMED] ShivKhoricave_v54_wm.webp -> ShivKhoricave_v54.webp
+[RENAMED] NauDeviCave_v22_wm.webp -> NauDeviCave_v22.webp
+[RENAMED] BabaDhansar2_v24_wm.webp -> BabaDhansar2_v24.webp
+[RENAMED] BalaSundariDevi_v86_wm.webp -> BalaSundariDevi_v86.webp
+[RENAMED] ShriDigamberJain_v28_wm.webp -> ShriDigamberJain_v28.webp
+[RENAMED] ShakumbhariDeviTem_v56_wm.webp -> ShakumbhariDeviTem_v56.webp
+[RENAMED] KesavaSomanathapur_v76_wm.webp -> KesavaSomanathapur_v76.webp
+[RENAMED] Chennakesava_v76_wm.webp -> Chennakesava_v76.webp
+[RENAMED] Hoysaleswara_v76_wm.webp -> Hoysaleswara_v76.webp
+[RENAMED] GuruPadmasambhavaRin_v77_wm.webp -> GuruPadmasambhavaRin_v77.webp
+[RENAMED] CharDha_v77_wm.webp -> CharDha_v77.webp
+[RENAMED] AnandeshwarTempleP_v9_wm.webp -> AnandeshwarTempleP_v9.webp
+[RENAMED] BrahmavartGhatBith_v47_wm.webp -> BrahmavartGhatBith_v47.webp
+[RENAMED] ShriRadhaKrishna_v69_wm.webp -> ShriRadhaKrishna_v69.webp
+[RENAMED] DevagiriForttemple_v14_wm.webp -> DevagiriForttemple_v14.webp
+[RENAMED] ISKCONKolkataSri_v70_wm.webp -> ISKCONKolkataSri_v70.webp
+[RENAMED] BelurMathRamakrish_v35_wm.webp -> BelurMathRamakrish_v35.webp
+[RENAMED] BirlaMandir_v1_wm.webp -> BirlaMandir_v1.webp
+[RENAMED] DakshineswarKaliTe_v2_wm.webp -> DakshineswarKaliTe_v2.webp
+[RENAMED] PareshnathJainTemp_v63_wm.webp -> PareshnathJainTemp_v63.webp
+[RENAMED] KalighatKaliTemple_v1_wm.webp -> KalighatKaliTemple_v1.webp
+[RENAMED] labrang_monast_v7_wm.webp -> labrang_monast_v7.webp
+[RENAMED] Iskonfb_v3_ooo_wm.webp -> Iskonfb_v3_ooo.webp
+[RENAMED] ShirdSafb_v3_ooo_wm.webp -> ShirdSafb_v3_ooo.webp
+[RENAMED] BhakraDam_v7_wm.webp -> BhakraDam_v7.webp
+[RENAMED] HanumanGaneshaShrin_v7_wm.webp -> HanumanGaneshaShrin_v7.webp
+[RENAMED] ShriNainaDevi_v7_wm.webp -> ShriNainaDevi_v7.webp
+[RENAMED] ShriNainaDevirop_v7_wm.webp -> ShriNainaDevirop_v7.webp
+[RENAMED] ankleshwatirth_v1_xyz_wm.webp -> ankleshwatirth_v1_xyz.webp
+[RENAMED] swaminarayan_v1_xyz_wm.webp -> swaminarayan_v1_xyz.webp
+[RENAMED] WalkeshwarTemplev7_v38_wm.webp -> WalkeshwarTemplev7_v38.webp
+[RENAMED] BabulnathTemplev32_v46_wm.webp -> BabulnathTemplev32_v46.webp
+[RENAMED] ISKCONTempleJuhuv1_v37_wm.webp -> ISKCONTempleJuhuv1_v37.webp
+[RENAMED] MumbaDeviTemplev86_v56_wm.webp -> MumbaDeviTemplev86_v56.webp
+[RENAMED] SwaminarayanMandir_v62_wm.webp -> SwaminarayanMandir_v62.webp
+[RENAMED] SiddhivinayakGanap_v43_wm.webp -> SiddhivinayakGanap_v43.webp
+[RENAMED] BAPSShriSwaminaray_v37_wm.webp -> BAPSShriSwaminaray_v37.webp
+[RENAMED] siddheshwartemplev_v68_wm.webp -> siddheshwartemplev_v68.webp
+[RENAMED] ShriRamMandirv58_v54_wm.webp -> ShriRamMandirv58_v54.webp
+[RENAMED] ShriMahalakshmiTem_v99_wm.webp -> ShriMahalakshmiTem_v99.webp
+[RENAMED] akola_v1_xyz_wm.webp -> akola_v1_xyz.webp
+[RENAMED] VishnupadTemple_v72_wm.webp -> VishnupadTemple_v72.webp
+[RENAMED] TakpithyaVithobaTe_v29_wm.webp -> TakpithyaVithobaTe_v29.webp
+[RENAMED] GopalpurMandir_v71_wm.webp -> GopalpurMandir_v71.webp
+[RENAMED] TrimbakeshwarTempl_v37_wm.webp -> TrimbakeshwarTempl_v37.webp
+[RENAMED] LaxmiNarayanTemple_v13_wm.webp -> LaxmiNarayanTemple_v13.webp
+[RENAMED] PundalikTemple_v19_wm.webp -> PundalikTemple_v19.webp
+[RENAMED] VitthalRukminiMand_v14_wm.webp -> VitthalRukminiMand_v14.webp
+[RENAMED] MadhyamaheshwarTem_v57_wm.webp -> MadhyamaheshwarTem_v57.webp
+[RENAMED] RudranathTemplePan_v15_wm.webp -> RudranathTemplePan_v15.webp
+[RENAMED] KalpeshwarTemplePa_v16_wm.webp -> KalpeshwarTemplePa_v16.webp
+[RENAMED] sodalmandir2019052_v67_wm.webp -> sodalmandir2019052_v67.webp
+[RENAMED] Devitalab_v2_wm.webp -> Devitalab_v2.webp
+[RENAMED] KundeshwariTemple_v73_wm.webp -> KundeshwariTemple_v73.webp
+[RENAMED] NandiTemple_v55_wm.webp -> NandiTemple_v55.webp
+[RENAMED] MaaParvatiTemple_v78_wm.webp -> MaaParvatiTemple_v78.webp
+[RENAMED] TapovanCaveTemples_v20_wm.webp -> TapovanCaveTemples_v20.webp
+[RENAMED] NaulakhaMandir_v88_wm.webp -> NaulakhaMandir_v88.webp
+[RENAMED] BaidyanathJyotirli_v29_wm.webp -> BaidyanathJyotirli_v29.webp
+[RENAMED] BasukinathTemple_v29_wm.webp -> BasukinathTemple_v29.webp
+[RENAMED] SriPanakalaLakshNar_v1_aaa_wm.webp -> SriPanakalaLakshNar_v1_aaa.webp
+[RENAMED] UndavalCaves_v1_aaa_wm.webp -> UndavalCaves_v1_aaa.webp
+[RENAMED] SriTrikoteswSwamy_v1_aaa_wm.webp -> SriTrikoteswSwamy_v1_aaa.webp
+[RENAMED] VykuntapuramVenkat_v1_aaa_wm.webp -> VykuntapuramVenkat_v1_aaa.webp
+[RENAMED] PedakakaniBramaMa_v1_aaa_wm.webp -> PedakakaniBramaMa_v1_aaa.webp
+[RENAMED] AmareswSwa_v1_aaa_wm.webp -> AmareswSwa_v1_aaa.webp
+[RENAMED] nashi_v3_pqr_wm.webp -> nashi_v3_pqr.webp
+[RENAMED] nashi_v1_pqr_wm.webp -> nashi_v1_pqr.webp
+[RENAMED] nashi_v2_pqr_wm.webp -> nashi_v2_pqr.webp
+[RENAMED] ShriGovindajee_v1_wm.webp -> ShriGovindajee_v1.webp
+[RENAMED] Mahabalimple_v1_wm.webp -> Mahabalimple_v1.webp
+[RENAMED] cavetemp_v2_def_wm.webp -> cavetemp_v2_def.webp
+[RENAMED] bhutanathaagastya_v2_def_wm.webp -> bhutanathaagastya_v2_def.webp
+[RENAMED] VandiyurMari_v3_pqr_wm.webp -> VandiyurMari_v3_pqr.webp
+[RENAMED] AlagKoviKalla_v3_pqr_wm.webp -> AlagKoviKalla_v3_pqr.webp
+[RENAMED] KoodAzh_v3_pqr_wm.webp -> KoodAzh_v3_pqr.webp
+[RENAMED] ThirupparankuMurug_v3_pqr_wm.webp -> ThirupparankuMurug_v3_pqr.webp
+[RENAMED] Meenaksh_v3_pqr_wm.webp -> Meenaksh_v3_pqr.webp
+[RENAMED] HumaLeaningTemple_v40_wm.webp -> HumaLeaningTemple_v40.webp
+[RENAMED] GhanteswariTemple_v79_wm.webp -> GhanteswariTemple_v79.webp
+[RENAMED] SamaleswariTemple_v90_wm.webp -> SamaleswariTemple_v90.webp
+[RENAMED] ShaniShingnapurTem_v34_wm.webp -> ShaniShingnapurTem_v34.webp
+[RENAMED] KhandobaMandirShir_v8_wm.webp -> KhandobaMandirShir_v8.webp
+[RENAMED] ShriSaibabaSamadhi_v56_wm.webp -> ShriSaibabaSamadhi_v56.webp
+[RENAMED] KalaramTempleNashi_v34_wm.webp -> KalaramTempleNashi_v34.webp
+[RENAMED] ChamundaDeviTemple_v35_wm.webp -> ChamundaDeviTemple_v35.webp
+[RENAMED] KunalPathriTemple_v98_wm.webp -> KunalPathriTemple_v98.webp
+[RENAMED] BaijnathTemple_v60_wm.webp -> BaijnathTemple_v60.webp
+[RENAMED] BagalamukhiTemple_v91_wm.webp -> BagalamukhiTemple_v91.webp
+[RENAMED] BhagsuNagTemple_v89_wm.webp -> BhagsuNagTemple_v89.webp
+[RENAMED] AshapuriTemple_v64_wm.webp -> AshapuriTemple_v64.webp
+[RENAMED] BajreshwariDeviTem_v1_wm.webp -> BajreshwariDeviTem_v1.webp
+[RENAMED] MasroorRockcut_v69_wm.webp -> MasroorRockcut_v69.webp
+[RENAMED] JwalamukhiJwalaJi_v89_wm.webp -> JwalamukhiJwalaJi_v89.webp
+[RENAMED] BathuTempleBathu_v38_wm.webp -> BathuTempleBathu_v38.webp
+[RENAMED] LokanathTemple_v2_wm.webp -> LokanathTemple_v2.webp
+[RENAMED] ShreeGopinathTempl_v36_wm.webp -> ShreeGopinathTempl_v36.webp
+[RENAMED] BediHanumanTemple_v15_wm.webp -> BediHanumanTemple_v15.webp
+[RENAMED] MausiMaaTemple_v90_wm.webp -> MausiMaaTemple_v90.webp
+[RENAMED] SonarGourangaTempl_v41_wm.webp -> SonarGourangaTempl_v41.webp
+[RENAMED] GundichaTemple_v37_wm.webp -> GundichaTemple_v37.webp
+[RENAMED] ChakraTirthaTemple_v43_wm.webp -> ChakraTirthaTemple_v43.webp
+[RENAMED] ShreeJagannathTempl_v73_wm.webp -> ShreeJagannathTempl_v73.webp
+[RENAMED] PanchatirthaSeaGha_v48_wm.webp -> PanchatirthaSeaGha_v48.webp
+[RENAMED] AlarnathTemple_v10_wm.webp -> AlarnathTemple_v10.webp
+[RENAMED] RanbireshwarTemple_v53_wm.webp -> RanbireshwarTemple_v53.webp
+[RENAMED] raghunath_v92_wm.webp -> raghunath_v92.webp
+[RENAMED] JeenMataTemple_v86_wm.webp -> JeenMataTemple_v86.webp
+[RENAMED] SalasarBalajiTempl_v42_wm.webp -> SalasarBalajiTempl_v42.webp
+[RENAMED] tric_v5_def_wm.webp -> tric_v5_def.webp
+[RENAMED] tric_v6_def_wm.webp -> tric_v6_def.webp
+[RENAMED] tric_v3_def_wm.webp -> tric_v3_def.webp
+[RENAMED] tric_v4_def_wm.webp -> tric_v4_def.webp
+[RENAMED] tric_v1_def_wm.webp -> tric_v1_def.webp
+[RENAMED] tric_v2_def_wm.webp -> tric_v2_def.webp
+[RENAMED] GauriSomnathTemple_v30_wm.webp -> GauriSomnathTemple_v30.webp
+[RENAMED] OmkareshwarJyotirl_v82_wm.webp -> OmkareshwarJyotirl_v82.webp
+[RENAMED] 24AvatarsGroup_v34_wm.webp -> 24AvatarsGroup_v34.webp
+[RENAMED] SiddhanathTemple_v58_wm.webp -> SiddhanathTemple_v58.webp
+[RENAMED] MamleshwarTemple_v19_wm.webp -> MamleshwarTemple_v19.webp
+[RENAMED] RinnMukteshwarMaha_v78_wm.webp -> RinnMukteshwarMaha_v78.webp
+[RENAMED] KedareshwarTemple_v36_wm.webp -> KedareshwarTemple_v36.webp
+[RENAMED] pydithalliAmmav_v23_wm.webp -> pydithalliAmmav_v23.webp
+[RENAMED] Ramatheertham_v23_wm.webp -> Ramatheertham_v23.webp
+[RENAMED] AundhaNagnat_v445_wm.webp -> AundhaNagnat_v445.webp
+[RENAMED] ChamundaMataTemple_v93_wm.webp -> ChamundaMataTemple_v93.webp
+[RENAMED] mandoregardens_v10_wm.webp -> mandoregardens_v10.webp
+[RENAMED] kunjbiharitemple_v12_wm.webp -> kunjbiharitemple_v12.webp
+[RENAMED] KandariyaMahadeva_v92_wm.webp -> KandariyaMahadeva_v92.webp
+[RENAMED] nagp_v1_abc_wm.webp -> nagp_v1_abc.webp
+[RENAMED] nagp_v2_abc_wm.webp -> nagp_v2_abc.webp
+[RENAMED] hanumtokk_v8_wm.webp -> hanumtokk_v8.webp
+[RENAMED] mankhimemple_v8_wm.webp -> mankhimemple_v8.webp
+[RENAMED] ganesto_v8_wm.webp -> ganesto_v8.webp
+[RENAMED] SriThakurbari_v8_wm.webp -> SriThakurbari_v8.webp
+[RENAMED] AnudhyaNagn_v5_pqr_wm.webp -> AnudhyaNagn_v5_pqr.webp
+[RENAMED] HottalSiddhesh_v3_pqr_wm.webp -> HottalSiddhesh_v3_pqr.webp
+[RENAMED] Kaleshwar_v1_pqr_wm.webp -> Kaleshwar_v1_pqr.webp
+[RENAMED] NarsiNamdev_v4_pqr_wm.webp -> NarsiNamdev_v4_pqr.webp
+[RENAMED] UnkeshwarMaha_v2_pqr_wm.webp -> UnkeshwarMaha_v2_pqr.webp
+[RENAMED] ArulmiguGovindarajSwam_v1_wm.webp -> ArulmiguGovindarajSwam_v1.webp
+[RENAMED] SriPasupatheswarar_v1_wm.webp -> SriPasupatheswarar_v1.webp
+[RENAMED] SriAnantheeswaTem_v1_wm.webp -> SriAnantheeswaTem_v1.webp
+[RENAMED] ShriBrammaraya_v1_wm.webp -> ShriBrammaraya_v1.webp
+[RENAMED] IlamaiyakkinarShivKov_v1_wm.webp -> IlamaiyakkinarShivKov_v1.webp
+[RENAMED] ThillaiKaliAmman_v1_wm.webp -> ThillaiKaliAmman_v1.webp
+[RENAMED] ThillaiNataraj_v1_wm.webp -> ThillaiNataraj_v1.webp
+[RENAMED] LilloriSthanMandir_v85_wm.webp -> LilloriSthanMandir_v85.webp
+[RENAMED] JhariaMaaKali_v45_wm.webp -> JhariaMaaKali_v45.webp
+[RENAMED] ShaktiMandir_v48_wm.webp -> ShaktiMandir_v48.webp
+[RENAMED] LachenMonas_v2_wm.webp -> LachenMonas_v2.webp
+
+--- CLEANUP SUMMARY ---
+Root scanned: /Users/knkk/Downloads/0_WATERMARKING/TEST
+Cutoff: 2026-10-23 20:37:00
+Old files matched: 768
+Old files deleted: 768
+Files renamed: 652
+Renames skipped (target exists): 0
+Errors: 0
+Mode: LIVE DELETION
+~/Downloads/0_WATERMARKING/TEST  % 
